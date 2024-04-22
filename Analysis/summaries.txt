@@ -1,0 +1,112 @@
+Checking  Algorithmic Pragmatic Elaboration.txt
+Skipping  Algorithmic Pragmatic Elaboration.txt: File not found or not accessible.
+Checking  Alpha-Crystalline Annealing.txt
+Skipping  Alpha-Crystalline Annealing.txt: File not found or not accessible.
+Checking  Analysis/ngrams.py
+Skipping  Analysis/ngrams.py: File not found or not accessible.
+Checking  Analysis/ngrams.txt
+Skipping  Analysis/ngrams.txt: File not found or not accessible.
+Checking  Attitude Awareness.txt
+Skipping  Attitude Awareness.txt: File not found or not accessible.
+Checking  Audiobook Generator Pipeline.txt
+Skipping  Audiobook Generator Pipeline.txt: File not found or not accessible.
+Checking  Balancing Bone and Blood.txt
+Skipping  Balancing Bone and Blood.txt: File not found or not accessible.
+Checking  Bayesian Statistics.txt
+Skipping  Bayesian Statistics.txt: File not found or not accessible.
+Checking  Brain in Vat Skepticism.txt
+Skipping  Brain in Vat Skepticism.txt: File not found or not accessible.
+Checking  Crab Mentality Explained.txt
+Skipping  Crab Mentality Explained.txt: File not found or not accessible.
+Checking  Critique of Multiverse Theory.txt
+Skipping  Critique of Multiverse Theory.txt: File not found or not accessible.
+Checking  Deep Aphantasia.txt
+Skipping  Deep Aphantasia.txt: File not found or not accessible.
+Checking  Fearism Philosophy Analysis.txt
+Skipping  Fearism Philosophy Analysis.txt: File not found or not accessible.
+Checking  Flexible Semantic Projections.txt
+Skipping  Flexible Semantic Projections.txt: File not found or not accessible.
+Checking  Forth Sum Calculator.txt
+Skipping  Forth Sum Calculator.txt: File not found or not accessible.
+Checking  Fortune Favet Audaci.txt
+Skipping  Fortune Favet Audaci.txt: File not found or not accessible.
+Checking  Hexagonal Yoking.txt
+Skipping  Hexagonal Yoking.txt: File not found or not accessible.
+Checking  Hume Capabilities Test.txt
+Skipping  Hume Capabilities Test.txt: File not found or not accessible.
+Checking  Hyperpleonastic Media.txt
+Skipping  Hyperpleonastic Media.txt: File not found or not accessible.
+Checking  Idiolectal Quirks.txt
+Skipping  Idiolectal Quirks.txt: File not found or not accessible.
+Checking  Idiolectales Eccentricitates.txt
+Skipping  Idiolectales Eccentricitates.txt: File not found or not accessible.
+Checking  Interactive Feedback Hypothesis.txt
+Skipping  Interactive Feedback Hypothesis.txt: File not found or not accessible.
+Checking  Mental Development.txt
+Skipping  Mental Development.txt: File not found or not accessible.
+Checking  Micromegas Ontology.txt
+Skipping  Micromegas Ontology.txt: File not found or not accessible.
+Checking  Nullwave Algebra.txt
+Skipping  Nullwave Algebra.txt: File not found or not accessible.
+Checking  Positive Ignorance.txt
+Skipping  Positive Ignorance.txt: File not found or not accessible.
+Checking  Recurrent Protopathy.txt
+Skipping  Recurrent Protopathy.txt: File not found or not accessible.
+Checking  Reverse Necrocapitalism.txt
+Skipping  Reverse Necrocapitalism.txt: File not found or not accessible.
+Checking  Sapiency Detection Theory.txt
+Skipping  Sapiency Detection Theory.txt: File not found or not accessible.
+Checking  Self-Repair in Language Models.txt
+Skipping  Self-Repair in Language Models.txt: File not found or not accessible.
+Checking  Self-Test.txt
+Skipping  Self-Test.txt: File not found or not accessible.
+Checking  The Overconfidence of Memes.txt
+Skipping  The Overconfidence of Memes.txt: File not found or not accessible.
+Checking  Umber Sumus.txt
+Skipping  Umber Sumus.txt: File not found or not accessible.
+Checking  Unconscious History.txt
+Skipping  Unconscious History.txt: File not found or not accessible.
+Checking  academizer_embeddings.txt
+Skipping  academizer_embeddings.txt: File not found or not accessible.
+Checking  ancient-languages.txt
+Skipping  ancient-languages.txt: File not found or not accessible.
+Checking  apocalypse-summary.txt
+Skipping  apocalypse-summary.txt: File not found or not accessible.
+Checking  belief-summary.txt
+Skipping  belief-summary.txt: File not found or not accessible.
+Checking  bio-relacional.txt
+Skipping  bio-relacional.txt: File not found or not accessible.
+Checking  bio-relational.txt
+Skipping  bio-relational.txt: File not found or not accessible.
+Checking  cyclopodian-ethics.txt
+Skipping  cyclopodian-ethics.txt: File not found or not accessible.
+Checking  empathic-summaries.txt
+Skipping  empathic-summaries.txt: File not found or not accessible.
+Checking  epistemology-of-belief-summary.txt
+Skipping  epistemology-of-belief-summary.txt: File not found or not accessible.
+Checking  epistemology-summary.txt
+Skipping  epistemology-summary.txt: File not found or not accessible.
+Checking  final-question.txt
+Skipping  final-question.txt: File not found or not accessible.
+Checking  formal-epistemology-summary.txt
+Skipping  formal-epistemology-summary.txt: File not found or not accessible.
+Checking  holotype-theory.txt
+Skipping  holotype-theory.txt: File not found or not accessible.
+Checking  intersubjectividad.txt
+Skipping  intersubjectividad.txt: File not found or not accessible.
+Checking  intersubjectivity.txt
+Skipping  intersubjectivity.txt: File not found or not accessible.
+Checking  linked-oscillators.txt
+Skipping  linked-oscillators.txt: File not found or not accessible.
+Checking  local-ancient-languages.txt
+Skipping  local-ancient-languages.txt: File not found or not accessible.
+Checking  meta-axiology.txt
+Skipping  meta-axiology.txt: File not found or not accessible.
+Checking  mortal-computers.txt
+Skipping  mortal-computers.txt: File not found or not accessible.
+Checking  relevance-relations.txt
+Skipping  relevance-relations.txt: File not found or not accessible.
+Checking  ultrapersonal-inquiry.txt
+Skipping  ultrapersonal-inquiry.txt: File not found or not accessible.
+Checking  vorticon-invasion.txt
+Skipping  vorticon-invasion.txt: File not found or not accessible.

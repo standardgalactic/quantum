@@ -1,0 +1,55 @@
+./Algorithmic Pragmatic Elaboration.txt
+./Alpha-Crystalline Annealing.txt
+./Analysis/ngrams.py
+./Analysis/ngrams.txt
+./Attitude Awareness.txt
+./Audiobook Generator Pipeline.txt
+./Balancing Bone and Blood.txt
+./Bayesian Statistics.txt
+./Brain in Vat Skepticism.txt
+./Crab Mentality Explained.txt
+./Critique of Multiverse Theory.txt
+./Deep Aphantasia.txt
+./Fearism Philosophy Analysis.txt
+./Flexible Semantic Projections.txt
+./Forth Sum Calculator.txt
+./Fortune Favet Audaci.txt
+./Hexagonal Yoking.txt
+./Hume Capabilities Test.txt
+./Hyperpleonastic Media.txt
+./Idiolectal Quirks.txt
+./Idiolectales Eccentricitates.txt
+./Interactive Feedback Hypothesis.txt
+./Mental Development.txt
+./Micromegas Ontology.txt
+./Nullwave Algebra.txt
+./Positive Ignorance.txt
+./Recurrent Protopathy.txt
+./Reverse Necrocapitalism.txt
+./Sapiency Detection Theory.txt
+./Self-Repair in Language Models.txt
+./Self-Test.txt
+./The Overconfidence of Memes.txt
+./Umber Sumus.txt
+./Unconscious History.txt
+./academizer_embeddings.txt
+./ancient-languages.txt
+./apocalypse-summary.txt
+./belief-summary.txt
+./bio-relacional.txt
+./bio-relational.txt
+./cyclopodian-ethics.txt
+./empathic-summaries.txt
+./epistemology-of-belief-summary.txt
+./epistemology-summary.txt
+./final-question.txt
+./formal-epistemology-summary.txt
+./holotype-theory.txt
+./intersubjectividad.txt
+./intersubjectivity.txt
+./linked-oscillators.txt
+./local-ancient-languages.txt
+./meta-axiology.txt
+./mortal-computers.txt
+./relevance-relations.txt
+./ultrapersonal-inquiry.txt
