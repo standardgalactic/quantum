@@ -1,0 +1,5179 @@
+File: 120103_001.MP3.txt
+
+Top 10 most common 3-grams:
+. This is: 43 times
+, such as: 26 times
+. It is: 19 times
+. We can: 18 times
+in order to: 18 times
+. We are: 16 times
+, and the: 15 times
+can not be: 15 times
+deep neural networks: 14 times
+the problem domain: 13 times
+
+
+File: 120114_001.MP3.txt
+
+Top 10 most common 3-grams:
+. You may: 2 times
+Still I rise: 1 times
+I rise .: 1 times
+rise . You: 1 times
+You may write: 1 times
+may write me: 1 times
+write me down: 1 times
+me down in: 1 times
+down in history: 1 times
+in history with: 1 times
+
+
+File: 120613_002.MP3.txt
+
+Top 10 most common 3-grams:
+I , I: 16 times
+, I ,: 14 times
+do n't know: 6 times
+what it is: 6 times
+, I do: 5 times
+I do n't: 5 times
+, no ,: 5 times
+no , no: 5 times
+n't know ,: 4 times
+know , no: 4 times
+
+
+File: 120708_001.MP3.txt
+
+Top 10 most common 3-grams:
+. It 's: 13 times
+. And so: 8 times
+a kind of: 8 times
+. This is: 8 times
+. You can: 8 times
+You can use: 6 times
+. And I: 6 times
+I 'm thinking: 6 times
+. I 'm: 5 times
+, I would: 5 times
+
+
+File: 120731_001.MP3.txt
+
+Top 10 most common 3-grams:
+The movie .: 2 times
+Offend Asia ?: 1 times
+Asia ? The: 1 times
+? The movie: 1 times
+movie . I: 1 times
+. I 'm: 1 times
+I 'm sorry: 1 times
+'m sorry ,: 1 times
+sorry , but: 1 times
+, but I: 1 times
+
+
+File: 120731_002.MP3.txt
+
+Top 10 most common 3-grams:
+. It 's: 15 times
+. The poem: 12 times
+. Okay ,: 10 times
+perception of time: 10 times
+. However ,: 10 times
+. It was: 9 times
+, but it: 8 times
+, it 's: 8 times
+a kind of: 7 times
+. I think: 7 times
+
+
+File: 120818_001.MP3.txt
+
+Top 10 most common 3-grams:
+'s up ?: 3 times
+I 'm playing: 2 times
+'m playing a: 2 times
+playing a game: 2 times
+a game with: 2 times
+game with myself: 2 times
+with myself in: 2 times
+myself in my: 2 times
+in my mind: 2 times
+my mind .: 2 times
+
+
+Skipping A Convoluted Mirror.txt: Not UTF-8 encoded.
+
+File: A Hyper-Dimensional Primer on Logical Constructs.txt
+
+Top 10 most common 3-grams:
+'' > <: 734 times
+var ( --: 728 times
+) ; }: 526 times
+: rgba (: 348 times
+, var (: 345 times
+> < div: 335 times
+< /div >: 335 times
+/div > <: 335 times
+< div class=: 327 times
+div class= '': 327 times
+
+
+File: A Hyper-Dimensional Primer.txt
+
+Top 10 most common 3-grams:
+Mind as a: 10 times
+Symbolic Logic ,: 7 times
+Null Convention Logic: 7 times
+definitions of love: 7 times
+Techno- Axiological Penteract: 6 times
+Axiology of Love: 6 times
+Love as a: 6 times
+Longing for Tenderness: 6 times
+Primer on Logical: 5 times
+on Logical Constructs: 5 times
+
+
+Skipping A Modest Inquiry.txt: Not UTF-8 encoded.
+
+Skipping A Scientific Mindset.txt: Not UTF-8 encoded.
+
+File: About Brain-Centricism.txt
+
+Top 10 most common 3-grams:
+var ( --: 950 times
+) ; }: 674 times
+, var (: 431 times
+: rgba (: 428 times
+) ) ;: 382 times
+: 1 ;: 369 times
+the mental space: 236 times
+: where (: 231 times
+; } .katex: 221 times
+: 0px ;: 205 times
+
+
+File: about.txt
+
+Top 10 most common 3-grams:
+< /a >: 203 times
+< a href=: 200 times
+a href= '': 200 times
+'' > <: 181 times
+'' http :: 174 times
+href= '' http: 173 times
+> < td: 129 times
+< /td >: 129 times
+/td > <: 129 times
+< td >: 128 times
+
+
+Skipping Abstract Algebra One.txt: Not UTF-8 encoded.
+
+Skipping Abstract Algebra Two.txt: Not UTF-8 encoded.
+
+Skipping Abstract Symbolic Distillation.txt: Not UTF-8 encoded.
+
+File: Abstraction in Smallfoot.txt
+
+Top 10 most common 3-grams:
+`` Smallfoot '': 31 times
+, and the: 29 times
+the importance of: 16 times
+in `` Smallfoot: 13 times
+AB testing ,: 12 times
+{ \theta }: 11 times
+of an estimator: 10 times
+\theta } }: 10 times
+the film 's: 10 times
+we ’ re: 9 times
+
+
+Skipping Academizer.txt: Not UTF-8 encoded.
+
+File: academizer_embeddings.txt
+
+Top 10 most common 3-grams:
+1 flyxion flyxion: 7 times
+Feb 18 11:29: 6 times
+-rwxrwxrwx 1 flyxion: 5 times
+drwxrwxrwx 1 flyxion: 2 times
+flyxion flyxion 512: 2 times
+flyxion 512 Feb: 2 times
+512 Feb 18: 2 times
+( base ): 1 times
+base ) 130: 1 times
+) 130 flyxion: 1 times
+
+
+File: Accélération du changement social.txt
+
+Top 10 most common 3-grams:
+var ( --: 650 times
+) ; }: 471 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Action Theory Resolving Problems.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Active Inference and Embodied Cognition.txt
+
+Top 10 most common 3-grams:
+. . .: 36 times
+of Active Inference: 32 times
+. Active Inference: 29 times
+based on the: 26 times
+, action ,: 25 times
+Active Inference ,: 25 times
+perception and action: 25 times
+of the world: 24 times
+perception , action: 24 times
+action , and: 24 times
+
+
+File: Active Inference Evolution.txt
+
+Top 10 most common 3-grams:
+var ( --: 940 times
+) ; }: 685 times
+, var (: 414 times
+: rgba (: 410 times
+) ) ;: 363 times
+: 1 ;: 351 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 213 times
+: 0px ;: 205 times
+
+
+File: Active Inference for Adaptation.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Active Inference Glossary.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+, var (: 327 times
+: rgba (: 326 times
+) ) ;: 282 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 129 times
+
+
+File: Advancing Algebra Education.txt
+
+Top 10 most common 3-grams:
+'' > <: 2432 times
+> < div: 1073 times
+< /div >: 1073 times
+/div > <: 1073 times
+> < /div: 1030 times
+< div class=: 1028 times
+div class= '': 1028 times
+: 0px ;: 694 times
+'' round '': 678 times
+'' 1em '': 678 times
+
+
+File: advancing-algebra.txt
+
+Top 10 most common 3-grams:
+roots of unity: 34 times
+, such as: 27 times
+a division ring: 26 times
+field extensions .: 25 times
+the existence of: 23 times
+field of fractions: 23 times
+of a field: 22 times
+, and the: 20 times
+of field extensions: 20 times
+the Galois group: 18 times
+
+
+File: Age-of-Photonic-Metasurfaces.txt
+
+Top 10 most common 3-grams:
+( disambiguation ): 95 times
+( mathematics ): 67 times
+( philosophy ): 58 times
+( linguistics ): 41 times
+( biology ): 39 times
+( computer science: 33 times
+computer science ): 33 times
+( physics ): 28 times
+( logic ): 27 times
+( psychology ): 24 times
+
+
+File: Agency in Spacetime.txt
+
+Top 10 most common 3-grams:
+. . .: 1812 times
+var ( --: 950 times
+) ; }: 674 times
+, var (: 431 times
+: rgba (: 428 times
+) ) ;: 382 times
+: 1 ;: 369 times
+â â â: 289 times
+: where (: 231 times
+; } .katex: 221 times
+
+
+Skipping AGI Blueprint.txt: Not UTF-8 encoded.
+
+Skipping AI Accountability Through Competition.txt: Not UTF-8 encoded.
+
+Skipping AI and Literature Discussion.txt: Not UTF-8 encoded.
+
+File: AI Balance Debate.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping AI Management System Requirements.txt: Not UTF-8 encoded.
+
+Skipping AI Normative Agency Design.txt: Not UTF-8 encoded.
+
+Skipping AI Prevents Mission Sabotage.txt: Not UTF-8 encoded.
+
+File: AI Risk Discussion.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping AI Safety Challenges.txt: Not UTF-8 encoded.
+
+File: AI Saves the World.txt
+
+Top 10 most common 3-grams:
+var ( --: 590 times
+) ; }: 427 times
+, var (: 287 times
+: rgba (: 283 times
+) ) ;: 243 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 144 times
+{ font-size :: 141 times
+: not (: 127 times
+
+
+Skipping AI Superintelligence Safety Book.txt: Not UTF-8 encoded.
+
+File: Algebraic Spaces in Mathematics.txt
+
+Top 10 most common 3-grams:
+var ( --: 553 times
+) ; }: 395 times
+: rgba (: 260 times
+, var (: 259 times
+: where (: 230 times
+) ) ;: 222 times
+; } .katex: 221 times
+{ font-size :: 140 times
+: 0px ;: 138 times
+: not (: 127 times
+
+
+File: algebraic-spaces.txt
+
+Top 10 most common 3-grams:
+the study of: 50 times
+) Mecha @: 44 times
+Mecha @ gpt-3.5-turbo: 44 times
+, such as: 33 times
+is a branch: 26 times
+a branch of: 26 times
+in the study: 25 times
+that studies the: 24 times
+. Overall ,: 24 times
+Conversation exceeded max: 24 times
+
+
+File: algebraic-structures.txt
+
+Top 10 most common 3-grams:
+. For example: 27 times
+For example ,: 24 times
+the set of: 22 times
+. User :: 16 times
+. Specifically ,: 15 times
+the properties of: 14 times
+the binary operation: 14 times
+. Overall ,: 13 times
+Assistant : In: 13 times
+: In mathematics: 13 times
+
+
+File: algebraic-topology.txt
+
+Top 10 most common 3-grams:
+. * *: 75 times
+* * :: 75 times
+* : This: 38 times
+: This is: 25 times
+) : default: 22 times
+: default ghost: 22 times
+default ghost @: 22 times
+ghost @ gpt-4: 20 times
+* : A: 17 times
+Topology * *: 16 times
+
+
+File: Algorithmic Pragmatic Elaboration.txt
+
+Top 10 most common 3-grams:
+] ( p.: 19 times
+Algorithmic Pragmatic Elaboration: 18 times
+flow of information: 14 times
+, and the: 13 times
+the flow of: 12 times
+algorithmic Bayesian epistemology: 11 times
+complex adaptive systems: 10 times
+Algorithmic Bayesian Epistemology: 9 times
+in a way: 9 times
+that can be: 9 times
+
+
+Skipping Alignment Objectives.txt: Not UTF-8 encoded.
+
+Skipping Alliterative Programming.txt: Not UTF-8 encoded.
+
+Skipping Alpha-Crystalline Annealing.txt: Not UTF-8 encoded.
+
+File: Ambiguous Figures in Philosophy.txt
+
+Top 10 most common 3-grams:
+'' > <: 1939 times
+> < div: 900 times
+< /div >: 900 times
+/div > <: 900 times
+< div class=: 894 times
+div class= '': 894 times
+> < /div: 865 times
+var ( --: 674 times
+'' round '': 566 times
+'' 1em '': 566 times
+
+
+Skipping Amplified Biblical Metaphors.txt: Not UTF-8 encoded.
+
+Skipping Anachronic Anastomosis.txt: Not UTF-8 encoded.
+
+Skipping Analog 2048 Game.txt: Not UTF-8 encoded.
+
+Skipping Anaphoric Agency.txt: Not UTF-8 encoded.
+
+Skipping Anarchic Scientific Methodology.txt: Not UTF-8 encoded.
+
+File: Anaxronia.txt
+
+Top 10 most common 3-grams:
+( disambiguation ): 72 times
+( philosophy ): 52 times
+( mathematics ): 34 times
+( biology ): 29 times
+( linguistics ): 23 times
+( physics ): 21 times
+( computer science: 20 times
+computer science ): 20 times
+( logic ): 16 times
+( topology ): 14 times
+
+
+File: ancient-languages.txt
+
+Top 10 most common 3-grams:
+) : default: 10 times
+: default Mecha: 10 times
+default Mecha @: 10 times
+Mecha @ gpt-4: 9 times
+: 1 .: 7 times
+Ancient Greek Vocabulary: 7 times
+Greek Vocabulary Pract: 7 times
+Vocabulary Pract ...: 7 times
+Pract ... (: 7 times
+. Ancient Greek: 5 times
+
+
+File: aniara.txt
+
+Top 10 most common 3-grams:
+mima ’ s: 13 times
+the mima ’: 11 times
+Aniara ’ s: 7 times
+, the mima: 6 times
+the mima ,: 6 times
+the mima .: 5 times
+it ’ s: 5 times
+Mima ’ s: 5 times
+she ’ s: 4 times
+I ’ m: 4 times
+
+
+Skipping Anthroposophical Reading Kitbash.txt: Not UTF-8 encoded.
+
+File: Antibody Sequence Generation.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Aphantasia Movie Request Unfound.txt: Not UTF-8 encoded.
+
+File: apocalypse-summary.txt
+
+Top 10 most common 3-grams:
+in order to: 57 times
+would need to: 50 times
+Do you think: 49 times
+, but they: 45 times
+? If so: 36 times
+If so ,: 36 times
+there are any: 35 times
+you think there: 35 times
+we want to: 33 times
+order to find: 33 times
+
+
+Skipping Apologist Gap Highlighted.txt: Not UTF-8 encoded.
+
+Skipping Arabic Glossary.txt: Not UTF-8 encoded.
+
+File: Arabic Script Phrases.txt
+
+Top 10 most common 3-grams:
+'' > <: 1027 times
+var ( --: 944 times
+) ; }: 665 times
+> < div: 634 times
+< /div >: 634 times
+/div > <: 634 times
+> < /div: 609 times
+< div class=: 581 times
+div class= '': 581 times
+, var (: 431 times
+
+
+Skipping Arabic Without Toil.txt: Not UTF-8 encoded.
+
+File: ARBITRARY REPOSITORY CONSTRAINT.txt
+
+Top 10 most common 3-grams:
+Deleted Repositories :: 1 times
+Repositories : None: 1 times
+: None so: 1 times
+None so far: 1 times
+so far ...: 1 times
+far ... But: 1 times
+... But want: 1 times
+But want to: 1 times
+want to maintain: 1 times
+to maintain a: 1 times
+
+
+File: Archetypal Ark Stories.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Argumentum ad Astra.txt: Not UTF-8 encoded.
+
+Skipping Armchair World Building.txt: Not UTF-8 encoded.
+
+Skipping Assemblies of Neurons.txt: Not UTF-8 encoded.
+
+Skipping Assumptions and Beliefs.txt: Not UTF-8 encoded.
+
+Skipping Astroaardvark Inference.txt: Not UTF-8 encoded.
+
+Skipping Asynchronous Symbiosis.txt: Not UTF-8 encoded.
+
+Skipping Attentional Cladistics.txt: Not UTF-8 encoded.
+
+File: Attitude Awareness.txt
+
+Top 10 most common 3-grams:
+* * -: 10 times
+. * *: 9 times
+our own attitudes: 8 times
+attribution theory ,: 5 times
+, and introspection: 5 times
+of self-awareness ,: 4 times
+, attribution theory: 4 times
+theory , and: 4 times
+having privileged access: 4 times
+privileged access to: 4 times
+
+
+File: Audiobook Generator Pipeline.txt
+
+Top 10 most common 3-grams:
+Copy code :: 14 times
+lame -m m: 11 times
+$ { file: 11 times
+{ file %: 11 times
+file % .: 11 times
+% . *: 11 times
+. * }: 11 times
+* } .mp3: 10 times
+-m m ``: 10 times
+file in *: 9 times
+
+
+Skipping Augmented Counterfactual Reality.txt: Not UTF-8 encoded.
+
+Skipping Auto Universe Concepts.txt: Not UTF-8 encoded.
+
+File: Autocatalytic Altruism.txt
+
+Top 10 most common 3-grams:
+var ( --: 948 times
+) ; }: 687 times
+, var (: 415 times
+: rgba (: 409 times
+) ) ;: 362 times
+: 1 ;: 350 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 216 times
+: 0px ;: 204 times
+
+
+Skipping Autodoxx.txt: Not UTF-8 encoded.
+
+Skipping AutoHotkey Scripts.txt: Not UTF-8 encoded.
+
+Skipping Automate Git Repo Updates.txt: Not UTF-8 encoded.
+
+Skipping Automated Bayesian Methods.txt: Not UTF-8 encoded.
+
+Skipping Automatic Differentiation.txt: Not UTF-8 encoded.
+
+Skipping Automatic Task Manager.txt: Not UTF-8 encoded.
+
+Skipping Automatic Xenotaxis.txt: Not UTF-8 encoded.
+
+Skipping Automating Basic Common Sense.txt: Not UTF-8 encoded.
+
+Skipping Automediality Unchained.txt: Not UTF-8 encoded.
+
+Skipping Autonomous Infrahumanisation.txt: Not UTF-8 encoded.
+
+File: Autonomy and Epistemic Humility.txt
+
+Top 10 most common 3-grams:
+var ( --: 554 times
+) ; }: 398 times
+: rgba (: 261 times
+, var (: 260 times
+: where (: 230 times
+) ) ;: 223 times
+; } .katex: 221 times
+{ font-size :: 140 times
+: 0px ;: 138 times
+: not (: 127 times
+
+
+Skipping Autostatic Plasticity.txt: Not UTF-8 encoded.
+
+Skipping Awareness of experience construction.txt: Not UTF-8 encoded.
+
+Skipping Axenic Culture Explanation.txt: Not UTF-8 encoded.
+
+Skipping Axiological Superstructures.txt: Not UTF-8 encoded.
+
+Skipping Axiology of Science.txt: Not UTF-8 encoded.
+
+Skipping Axion Cloud Dynamics.txt: Not UTF-8 encoded.
+
+File: Balancing Bone and Blood.txt
+
+Top 10 most common 3-grams:
+`` blood '': 29 times
+`` bone '': 26 times
+I ’ m: 20 times
+it ’ s: 17 times
+don ’ t: 14 times
+`` habit '': 14 times
+'' and ``: 13 times
+you ’ re: 11 times
+be seen as: 11 times
+bone '' and: 10 times
+
+
+File: Bash Script Review.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+) ; }: 695 times
+, var (: 417 times
+: rgba (: 411 times
+) ) ;: 364 times
+: 1 ;: 352 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 217 times
+: 0px ;: 205 times
+
+
+Skipping Basic Parsing Models.txt: Not UTF-8 encoded.
+
+Skipping Bayesian Cake Recipes.txt: Not UTF-8 encoded.
+
+Skipping Bayesian Epistemology.txt: Not UTF-8 encoded.
+
+File: Bayesian Statistics.txt
+
+Top 10 most common 3-grams:
+Statistical Rethinking 2023: 22 times
+. The lecture: 22 times
+the importance of: 21 times
+Rethinking 2023 -: 21 times
+. Checking Statistical: 20 times
+Checking Statistical Rethinking: 20 times
+In this lecture: 18 times
+this lecture ,: 18 times
+lecture , the: 16 times
+. The speaker: 15 times
+
+
+File: bayesian-epistemology.txt
+
+Top 10 most common 3-grams:
+) Mecha @: 232 times
+Mecha @ gpt-3.5-turbo: 232 times
+Conversation exceeded max: 177 times
+exceeded max submission: 177 times
+max submission tokens: 177 times
+submission tokens (: 177 times
+tokens ( 4000: 177 times
+( 4000 ): 177 times
+4000 ) ,: 177 times
+) , stripped: 177 times
+
+
+File: belief-summary.txt
+
+Top 10 most common 3-grams:
+. However ,: 19 times
+. The author: 17 times
+The author argues: 9 times
+, the author: 8 times
+author argues that: 8 times
+the contents of: 8 times
+the principle of: 6 times
+principle of charity: 6 times
+, as it: 6 times
+The author also: 6 times
+
+
+File: Bell's Theorem Revisited.txt
+
+Top 10 most common 3-grams:
+var ( --: 554 times
+) ; }: 398 times
+: rgba (: 261 times
+, var (: 260 times
+: where (: 230 times
+) ) ;: 223 times
+; } .katex: 221 times
+Î » ): 212 times
+, Î »: 186 times
+{ font-size :: 140 times
+
+
+File: bells-theorem.txt
+
+Top 10 most common 3-grams:
+. . .: 301 times
+hidden variable theories: 92 times
+) Mecha @: 81 times
+Mecha @ gpt-3.5-turbo: 81 times
+Bell 's theorem: 67 times
+of quantum mechanics: 51 times
+The statement you: 51 times
+statement you presented: 51 times
+presented suggests that: 50 times
+you presented suggests: 49 times
+
+
+Skipping Benchmarking Language Models.txt: Not UTF-8 encoded.
+
+File: Bible as Iconoclastic Guide.txt
+
+Top 10 most common 3-grams:
+var ( --: 950 times
+) ; }: 674 times
+, var (: 431 times
+: rgba (: 428 times
+) ) ;: 382 times
+: 1 ;: 369 times
+: where (: 231 times
+; } .katex: 221 times
+: 0px ;: 205 times
+: var (: 196 times
+
+
+File: bing-1.txt
+
+Top 10 most common 3-grams:
+the properties of: 26 times
+Received message .: 24 times
+. It is: 24 times
+me to look: 24 times
+to look up: 24 times
+look up more: 24 times
+up more information: 24 times
+more information on: 24 times
+Sent message .: 23 times
+Searching for :: 22 times
+
+
+File: bing-2.txt
+
+Top 10 most common 3-grams:
+. For example: 78 times
+For example ,: 78 times
+because it receives: 50 times
+symbol at its: 50 times
+a function that: 42 times
+# < procedure: 40 times
+< procedure :: 40 times
+and null symbols: 36 times
+at its input: 36 times
+its input .: 36 times
+
+
+Skipping bio-relacional.txt: Not UTF-8 encoded.
+
+File: bio-relational.txt
+
+Top 10 most common 3-grams:
+. AI :: 18 times
+* * *: 18 times
+forms of communication: 17 times
+the natural world: 12 times
+. * *: 12 times
+. Human :: 11 times
+Human : Explain: 9 times
+, and the: 9 times
+the potential for: 8 times
+with the natural: 8 times
+
+
+Skipping Biometric Autobot Detector.txt: Not UTF-8 encoded.
+
+Skipping Biomimetic Food Production.txt: Not UTF-8 encoded.
+
+Skipping Biomimetic Glottogenesis.txt: Not UTF-8 encoded.
+
+Skipping Biomimetic Sociology.txt: Not UTF-8 encoded.
+
+Skipping Bionic Limb Implant Technology.txt: Not UTF-8 encoded.
+
+Skipping Blindfolded Robot Operates Computer.txt: Not UTF-8 encoded.
+
+Skipping Bond Breaking in Amorphous Materials.txt: Not UTF-8 encoded.
+
+File: Boundary Construction for Lorentz Surfaces.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Bracketing Phylogenetic Trees.txt: Not UTF-8 encoded.
+
+File: Brain as Complex Adaptive System.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 478 times
+: rgba (: 320 times
+, var (: 320 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Brain Constructs Perceptions.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Brain Development and Societies.txt: Not UTF-8 encoded.
+
+File: Brain in Vat Skepticism.txt
+
+Top 10 most common 3-grams:
+Brain in a: 14 times
+in a Vat: 14 times
+( h ): 11 times
+the probability of: 11 times
+( BIVH ): 10 times
+of our experiences: 10 times
+Huemer ’ s: 9 times
+P ( h: 9 times
+the Brain in: 9 times
+in a vat: 8 times
+
+
+Skipping Brain Science Explained.txt: Not UTF-8 encoded.
+
+Skipping Brevis Adnotatio.txt: Not UTF-8 encoded.
+
+Skipping Bridging Metaphors.txt: Not UTF-8 encoded.
+
+Skipping Bureaucratic Hoops in Logic.txt: Not UTF-8 encoded.
+
+File: byobu comma separated file.txt
+
+Top 10 most common 3-grams:
+, Move focus: 5 times
+Move focus among: 5 times
+, Create a: 4 times
+, * Used: 3 times
+* Used by: 3 times
+Used by X11: 3 times
+Create a new: 2 times
+a vertical split: 2 times
+focus among windows: 2 times
+focus among splits: 2 times
+
+
+Skipping Byobu for Nuspeak Engineers.txt: Not UTF-8 encoded.
+
+Skipping Byobu Shortcut Review.txt: Not UTF-8 encoded.
+
+File: byobu shortcuts ubuntu.txt
+
+Top 10 most common 3-grams:
+Move focus among: 5 times
+the current window: 3 times
+Create a new: 2 times
+- Move to: 2 times
+- Reload profile: 2 times
+- Split the: 2 times
+Split the screen: 2 times
+- Shift the: 2 times
+Shift the focus: 2 times
+the focus to: 2 times
+
+
+File: byobu.txt
+
+Top 10 most common 3-grams:
+2023-08-27 00:52 :: 9 times
+2023-08-27 00:53 :: 8 times
+allows you to: 7 times
+key bindings ,: 4 times
+. This allows: 4 times
+This allows you: 4 times
+00:52 : Understanding: 3 times
+. User :: 3 times
+Assistant : Byobu: 3 times
+Byobu is a: 3 times
+
+
+Skipping Cached Transformer for Improved Attention.txt: Not UTF-8 encoded.
+
+Skipping Causa Sui.txt: Not UTF-8 encoded.
+
+Skipping Causal Decoupling.txt: Not UTF-8 encoded.
+
+Skipping Ceteris Paribus.txt: Not UTF-8 encoded.
+
+Skipping Chain-of-action Technique.txt: Not UTF-8 encoded.
+
+Skipping Challenges of Superintelligence.txt: Not UTF-8 encoded.
+
+Skipping Chaotic Neutral Monism.txt: Not UTF-8 encoded.
+
+File: Chat with RTX.txt
+
+Top 10 most common 3-grams:
+'' : '': 635 times
+'' : false: 603 times
+'' > <: 586 times
+'' , '': 490 times
+: false ,: 490 times
+false , '': 490 times
+'' : [: 425 times
+] , '': 401 times
+null , '': 342 times
+'' : true: 336 times
+
+
+Skipping ChatGPT_ Almost Human.txt: Not UTF-8 encoded.
+
+Skipping Check Current Network.txt: Not UTF-8 encoded.
+
+Skipping Check PyTorch Installation.txt: Not UTF-8 encoded.
+
+Skipping Circular Misdirection.txt: Not UTF-8 encoded.
+
+Skipping Circular Reasoning Explained.txt: Not UTF-8 encoded.
+
+Skipping Clear File Contents.txt: Not UTF-8 encoded.
+
+Skipping Clickbait is Abstraction.txt: Not UTF-8 encoded.
+
+Skipping Clipboard Path Conversion.txt: Not UTF-8 encoded.
+
+Skipping Cognition Shapes Change Patterns.txt: Not UTF-8 encoded.
+
+Skipping Cognitive Models Unveiled.txt: Not UTF-8 encoded.
+
+Skipping Cohesion of Tropes.txt: Not UTF-8 encoded.
+
+File: common-words.txt
+
+Top 10 most common 3-grams:
+ the : 1 times
+the  of: 1 times
+ of : 1 times
+of  to: 1 times
+ to : 1 times
+to  and: 1 times
+ and : 1 times
+and  a: 1 times
+ a : 1 times
+a  in: 1 times
+
+
+Skipping Complex Assembly Theory.txt: Not UTF-8 encoded.
+
+File: Complex Phenomena Ontology.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+) ; }: 695 times
+, var (: 417 times
+: rgba (: 411 times
+) ) ;: 364 times
+: 1 ;: 352 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 217 times
+: 0px ;: 205 times
+
+
+Skipping Complex Tale of Connected Events.txt: Not UTF-8 encoded.
+
+Skipping Compression is Abstraction.txt: Not UTF-8 encoded.
+
+Skipping Computational Quantum Bayesianism.txt: Not UTF-8 encoded.
+
+Skipping Consciousness and Perception.txt: Not UTF-8 encoded.
+
+File: Consciousness as Perceptual Control.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+, var (: 327 times
+: rgba (: 326 times
+) ) ;: 282 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 129 times
+
+
+Skipping Conspiracy Viability Study.txt: Not UTF-8 encoded.
+
+Skipping Constructive Static Sequence Versioning.txt: Not UTF-8 encoded.
+
+File: Continuum Hypothesis Explored.txt
+
+Top 10 most common 3-grams:
+var ( --: 950 times
+) ; }: 674 times
+, var (: 431 times
+: rgba (: 428 times
+) ) ;: 382 times
+: 1 ;: 369 times
+: where (: 231 times
+; } .katex: 221 times
+: 0px ;: 205 times
+: var (: 196 times
+
+
+Skipping Controllable Object Generation.txt: Not UTF-8 encoded.
+
+Skipping Convergent Solutions to Frame Problem.txt: Not UTF-8 encoded.
+
+Skipping Coordinating Boundary Conditions.txt: Not UTF-8 encoded.
+
+Skipping Core Themes Unveiled.txt: Not UTF-8 encoded.
+
+Skipping Cosmic Language Unveiled.txt: Not UTF-8 encoded.
+
+Skipping Cosmic Theories Explored.txt: Not UTF-8 encoded.
+
+Skipping Cosmic Void Simulator.txt: Not UTF-8 encoded.
+
+Skipping Cosmic Void Solves Cosmology.txt: Not UTF-8 encoded.
+
+File: cosmic-entity.txt
+
+Top 10 most common 3-grams:
+Mecha @ gpt-3.5-turbo: 17 times
+) Mecha @: 15 times
+advice from a: 6 times
+an AI language: 6 times
+AI language model: 6 times
+language model ,: 6 times
+from a cosmic: 5 times
+. As an: 5 times
+As an AI: 5 times
+, I can: 5 times
+
+
+Skipping Cosmocytogenesis.txt: Not UTF-8 encoded.
+
+Skipping Counterfactual Affordances.txt: Not UTF-8 encoded.
+
+File: Counterfactual Scenarios.txt
+
+Top 10 most common 3-grams:
+'' > <: 898 times
+var ( --: 610 times
+) ; }: 458 times
+> < div: 383 times
+< /div >: 383 times
+/div > <: 383 times
+< div class=: 380 times
+div class= '': 380 times
+> < /div: 367 times
+: 0px ;: 343 times
+
+
+File: Crab Mentality Explained.txt
+
+Top 10 most common 3-grams:
+Tall Poppy Syndrome: 7 times
+and natural language: 5 times
+the future of: 4 times
+future of technology: 4 times
+AI and natural: 4 times
+natural language programming: 4 times
+. User A: 4 times
+líneas en blanco: 4 times
+' [ :: 4 times
+: ] ': 4 times
+
+
+Skipping Crafting A Sustainable Masterpiece.txt: Not UTF-8 encoded.
+
+Skipping Create Alicia Juarrero Wikipedia page.txt: Not UTF-8 encoded.
+
+Skipping Creative Ideas Discussion.txt: Not UTF-8 encoded.
+
+Skipping Critical Hermeneutics.txt: Not UTF-8 encoded.
+
+Skipping Critique of Integrated Pseudoscience.txt: Not UTF-8 encoded.
+
+File: Critique of Multiverse Theory.txt
+
+Top 10 most common 3-grams:
+history of science: 18 times
+, and the: 17 times
+the history of: 14 times
+of the universe: 13 times
+the importance of: 11 times
+the existence of: 11 times
+the multiverse theory: 11 times
+the nature of: 10 times
+string theory and: 9 times
+the principle of: 9 times
+
+
+Skipping Critiques of Anarcho-Primitivism.txt: Not UTF-8 encoded.
+
+Skipping Crystal Plenum Theory.txt: Not UTF-8 encoded.
+
+File: curated-list.txt
+
+Top 10 most common 3-grams:
+.pdf │ ├──: 853 times
+) .pdf │: 852 times
+( PDFDrive ): 850 times
+PDFDrive ) .pdf: 846 times
+│ ├── The: 101 times
+│ ├── Bayesian: 93 times
+) ( PDFDrive: 40 times
+) │ ├──: 28 times
+│ ├── Google: 25 times
+├── Google -: 25 times
+
+
+Skipping Cutting-Edge Research.txt: Not UTF-8 encoded.
+
+Skipping Cybernetic Governments Investigated.txt: Not UTF-8 encoded.
+
+File: cyclopod-3.txt
+
+Top 10 most common 3-grams:
+. The authors: 5 times
+in the brain: 4 times
+the brain .: 4 times
+. The author: 4 times
+. The poem: 4 times
+, '' and: 3 times
+. It was: 3 times
+. However ,: 3 times
+to provide a: 3 times
+, such as: 3 times
+
+
+File: cyclopodian-ethics.txt
+
+Top 10 most common 3-grams:
+> > >: 68 times
+of the Cyclops: 24 times
+C : \: 19 times
+: \ >: 19 times
+. > >: 19 times
+the importance of: 16 times
+< < <: 15 times
+Nietzsche ’ s: 15 times
+a metaphor for: 14 times
+Cyclops to Cyborg: 13 times
+
+
+Skipping Da Vinci and Gravity.txt: Not UTF-8 encoded.
+
+Skipping Dangerously Utopian Overtones.txt: Not UTF-8 encoded.
+
+Skipping Daniel Milo Overview.txt: Not UTF-8 encoded.
+
+Skipping Dark Mode Conversion.txt: Not UTF-8 encoded.
+
+Skipping Data Sources and Methods.txt: Not UTF-8 encoded.
+
+Skipping Decoding Quantum Entanglement.txt: Not UTF-8 encoded.
+
+File: Deep Aphantasia.txt
+
+Top 10 most common 3-grams:
+visual imagery ,: 13 times
+of visual imagery: 11 times
+the ability to: 9 times
+, such as: 9 times
+the Necker cube: 8 times
+mind 's eye: 7 times
+the human mind: 7 times
+`` Asynesthesia '': 7 times
+of the Necker: 7 times
+a cow in: 7 times
+
+
+Skipping Deep Dive.txt: Not UTF-8 encoded.
+
+Skipping Deep Learning Architectures.txt: Not UTF-8 encoded.
+
+Skipping Defending Neutral Monism.txt: Not UTF-8 encoded.
+
+Skipping Defining Machine Intelligence.txt: Not UTF-8 encoded.
+
+Skipping Democratic Epistemic Models.txt: Not UTF-8 encoded.
+
+Skipping Deontological Objectivism.txt: Not UTF-8 encoded.
+
+Skipping Deontological Transhumanism.txt: Not UTF-8 encoded.
+
+Skipping Design of a New Encyclopedia.txt: Not UTF-8 encoded.
+
+Skipping Designing Robots with LLMs.txt: Not UTF-8 encoded.
+
+Skipping Diachronic Reverse Mathematics.txt: Not UTF-8 encoded.
+
+File: diachronic-reverse-mathematics.txt
+
+Top 10 most common 3-grams:
+( , ): 9 times
+the relationship between: 7 times
+) p (: 7 times
+( C ): 7 times
+, the text: 7 times
+( , Σ: 7 times
+, Σ ): 7 times
+. Overall ,: 6 times
+of category theory: 6 times
+category theory to: 6 times
+
+
+Skipping Diacritical Realism.txt: Not UTF-8 encoded.
+
+File: Dismantling the Brain for Understanding.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Dissecting Story Ideas.txt: Not UTF-8 encoded.
+
+Skipping Dissociation in Set Theory.txt: Not UTF-8 encoded.
+
+Skipping Distilling Human Understanding.txt: Not UTF-8 encoded.
+
+Skipping Diurnal Saturnalia.txt: Not UTF-8 encoded.
+
+Skipping Diverse Ideas and Concepts.txt: Not UTF-8 encoded.
+
+File: document-summaries.txt
+
+Top 10 most common 3-grams:
+. The authors: 125 times
+. The paper: 59 times
+( x ): 56 times
+] , [: 55 times
+. They also: 44 times
+. The author: 38 times
+, such as: 36 times
+et al .: 32 times
+( u ;: 29 times
+) . The: 25 times
+
+
+Skipping Dual-Wave Ciphers.txt: Not UTF-8 encoded.
+
+Skipping Dynamic Flow Computing.txt: Not UTF-8 encoded.
+
+Skipping Dynamic Zettelkasten Method.txt: Not UTF-8 encoded.
+
+File: Echoes of Aeternia.txt
+
+Top 10 most common 3-grams:
+var ( --: 728 times
+) ; }: 528 times
+: rgba (: 351 times
+, var (: 347 times
+'' > <: 313 times
+) ) ;: 305 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 177 times
+{ font-size :: 148 times
+
+
+Skipping Echoes of Hypatia.txt: Not UTF-8 encoded.
+
+Skipping Ecphoric Synthesis.txt: Not UTF-8 encoded.
+
+File: Efficient Deep Learning Algorithms.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Efficient Software Development Decisions.txt: Not UTF-8 encoded.
+
+Skipping Effusion Ensemble Learning.txt: Not UTF-8 encoded.
+
+Skipping Eight Letter Keyboard.txt: Not UTF-8 encoded.
+
+Skipping El Clickbait es Abstracción.txt: Not UTF-8 encoded.
+
+File: Electric Experiment.txt
+
+Top 10 most common 3-grams:
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Electrocatalytic Heteroatoms.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+'' > <: 835 times
+) ; }: 695 times
+> < div: 607 times
+< /div >: 607 times
+/div > <: 607 times
+> < /div: 555 times
+< div class=: 535 times
+div class= '': 535 times
+, var (: 417 times
+
+
+Skipping Electromagnetic Integrators.txt: Not UTF-8 encoded.
+
+Skipping Electrostimulated Sleep Periglympholosis.txt: Not UTF-8 encoded.
+
+Skipping Emergency Greek Keyboard.txt: Not UTF-8 encoded.
+
+File: Emergent Evolution in Societies.txt
+
+Top 10 most common 3-grams:
+, and the: 25 times
+William Morton Wheeler: 18 times
+. Wheeler 's: 17 times
+the importance of: 15 times
+Morton Wheeler 's: 12 times
+the concept of: 10 times
+. William Morton: 10 times
+, such as: 10 times
+World of Null-A: 9 times
+The World of: 9 times
+
+
+File: empathic-summaries.txt
+
+Top 10 most common 3-grams:
+* * *: 160 times
+. * *: 131 times
+｜ The Feelings: 113 times
+Feelings Lab Ep: 109 times
+The Feelings Lab: 101 times
+. The speaker: 49 times
+. However ,: 26 times
+the importance of: 24 times
+* * The: 21 times
+The speaker is: 17 times
+
+
+Skipping Endokinematics.txt: Not UTF-8 encoded.
+
+Skipping Enneasecting Problem Domains.txt: Not UTF-8 encoded.
+
+Skipping Entangled Ancillary Qubits.txt: Not UTF-8 encoded.
+
+Skipping Entangled Autopoeisis.txt: Not UTF-8 encoded.
+
+Skipping Entropic Markov Chains.txt: Not UTF-8 encoded.
+
+Skipping Entropy-Based Universe.txt: Not UTF-8 encoded.
+
+Skipping Epistemology of Mathematics.txt: Not UTF-8 encoded.
+
+File: epistemology-of-belief-summary.txt
+
+Top 10 most common 3-grams:
+, and the: 30 times
+the nature of: 26 times
+the basing relation: 25 times
+of non-doxastic justification: 19 times
+nature of belief: 18 times
+the problem of: 17 times
+Reasoner : A: 17 times
+of epistemic justification: 16 times
+of belief ,: 15 times
+, such as: 14 times
+
+
+File: epistemology-summary.txt
+
+Top 10 most common 3-grams:
+. However ,: 59 times
+degrees of belief: 41 times
+. The text: 39 times
+an agent 's: 31 times
+problem of induction: 28 times
+. The passage: 27 times
+However , this: 26 times
+the concept of: 25 times
+the Principle of: 24 times
+degree of belief: 23 times
+
+
+File: Erewhon Summary.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Ergodic Mind Medication.txt: Not UTF-8 encoded.
+
+File: Ergodic Quantum Interpretation.txt
+
+Top 10 most common 3-grams:
+var ( --: 607 times
+) ; }: 460 times
+: rgba (: 304 times
+, var (: 301 times
+) ) ;: 259 times
+: where (: 230 times
+; } .katex: 221 times
+. . .: 189 times
+: 0px ;: 152 times
+{ font-size :: 141 times
+
+
+Skipping Estivating Aliens.txt: Not UTF-8 encoded.
+
+Skipping Etiological Tales and Behavior.txt: Not UTF-8 encoded.
+
+Skipping Etymological Investigations.txt: Not UTF-8 encoded.
+
+File: Eugenas Genusae.txt
+
+Top 10 most common 3-grams:
+var ( --: 635 times
+) ; }: 471 times
+: rgba (: 317 times
+, var (: 315 times
+) ) ;: 268 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Everlasting Vaporware.txt: Not UTF-8 encoded.
+
+Skipping Everything Is a Filter.txt: Not UTF-8 encoded.
+
+Skipping Evolution of Dome Architecture.txt: Not UTF-8 encoded.
+
+File: Evolution of Error Correction.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Evolution of State Space.txt: Not UTF-8 encoded.
+
+Skipping Evolutionary Computation.txt: Not UTF-8 encoded.
+
+Skipping Evolutionary Thought Before Darwin.txt: Not UTF-8 encoded.
+
+Skipping Exegesis Gnomonis.txt: Not UTF-8 encoded.
+
+File: exogenous-xenotaxis.txt
+
+Top 10 most common 3-grams:
+) : creative_writer: 15 times
+: creative_writer analog: 15 times
+creative_writer analog @: 15 times
+analog @ gpt-4-creative-writing: 15 times
+Xenotaxis : Parasite: 13 times
+: Parasite 's: 13 times
+Parasite 's Host: 13 times
+'s Host Ori: 13 times
+Host Ori ...: 13 times
+Ori ... (: 13 times
+
+
+Skipping Expanding universe concept.txt: Not UTF-8 encoded.
+
+Skipping Explore Current Folder.txt: Not UTF-8 encoded.
+
+File: Exploring Genetic Similarities.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Exploring Intersections.txt: Not UTF-8 encoded.
+
+File: exs.txt
+
+Top 10 most common 3-grams:
+< /span >: 112 times
+< span class=: 109 times
+span class= '': 109 times
+class= '' tt: 109 times
+'' tt '': 109 times
+tt '' >: 108 times
+& gt ;: 94 times
+< /p >: 88 times
+/p > <: 88 times
+< p >: 87 times
+
+
+File: Extended radio alphabet.txt
+
+Top 10 most common 3-grams:
+Echo Foxtrot Golf: 1 times
+Foxtrot Golf Hotel: 1 times
+Golf Hotel India: 1 times
+Hotel India Juliett: 1 times
+India Juliett Kilo: 1 times
+Juliett Kilo Lima: 1 times
+Kilo Lima Mike: 1 times
+Lima Mike November: 1 times
+Mike November Oscar: 1 times
+November Oscar Papa: 1 times
+
+
+Skipping Extremely Marked-Up Folding Text.txt: Not UTF-8 encoded.
+
+Skipping Falcon Tests.txt: Not UTF-8 encoded.
+
+Skipping Fallacem Illuminationem.txt: Not UTF-8 encoded.
+
+File: Fantastic scenarios.txt
+
+Top 10 most common 3-grams:
+'' > <: 572 times
+var ( --: 522 times
+) ; }: 324 times
+: 0px ;: 308 times
+> < div: 285 times
+< /div >: 285 times
+/div > <: 285 times
+< div class=: 282 times
+div class= '': 282 times
+> < /div: 270 times
+
+
+File: Fearism Philosophy Analysis.txt
+
+Top 10 most common 3-grams:
+Philosophy of Fearism: 17 times
+Subba ’ s: 17 times
+, rather than: 12 times
+, and the: 11 times
+of fear ,: 8 times
+Subba 's Philosophy: 7 times
+'s Philosophy of: 7 times
+by Desh Subba: 6 times
+our responses to: 6 times
+. Subba ’: 6 times
+
+
+File: Female scientist discovered star composition.txt
+
+Top 10 most common 3-grams:
+var ( --: 522 times
+) ; }: 323 times
+: where (: 229 times
+, var (: 223 times
+; } .katex: 221 times
+: rgba (: 219 times
+) ) ;: 197 times
+{ font-size :: 141 times
+: not (: 129 times
+: var (: 124 times
+
+
+Skipping Fiat Boundaries.txt: Not UTF-8 encoded.
+
+Skipping Filling in the Blanks.txt: Not UTF-8 encoded.
+
+File: final-question.txt
+
+Top 10 most common 3-grams:
+> > >: 28 times
+'' , ...: 8 times
+, ... ): 5 times
+) > >: 5 times
+. > >: 4 times
+... ) >: 4 times
+= anthropic.completions.create (: 4 times
+anthropic.completions.create ( ...: 4 times
+( ... model=: 4 times
+... model= '': 4 times
+
+
+File: First Room-Temperature Superconductor.txt
+
+Top 10 most common 3-grams:
+var ( --: 673 times
+) ; }: 483 times
+: rgba (: 325 times
+, var (: 325 times
+) ) ;: 278 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Flexible Semantic Projections.txt
+
+Top 10 most common 3-grams:
+et al. ,: 20 times
+of linguistic palaeontology: 20 times
+form of life: 18 times
+the idea that: 16 times
+doesn ’ t: 14 times
+, it is: 12 times
+a set of: 12 times
+. It is: 12 times
+don ’ t: 12 times
+the claim that: 12 times
+
+
+File: flyxion.txt
+
+Top 10 most common 3-grams:
+> < td: 88847 times
+< td >: 88847 times
+< /td >: 88847 times
+/td > <: 88847 times
+> < tr: 36682 times
+< tr >: 36682 times
+tr > <: 36682 times
+> < /tr: 36682 times
+< /tr >: 36682 times
+/tr > <: 36682 times
+
+
+File: formal-epistemology-summary.txt
+
+Top 10 most common 3-grams:
+problem of induction: 52 times
+the problem of: 50 times
+. However ,: 41 times
+the nature of: 34 times
+, and the: 27 times
+our understanding of: 26 times
+the world .: 21 times
+beliefs about the: 21 times
+understanding of the: 19 times
+Dutch Book Argument: 19 times
+
+
+Skipping Forth Quine Example.txt: Not UTF-8 encoded.
+
+File: Forth Sum Calculator.txt
+
+Top 10 most common 3-grams:
+cr . '': 84 times
+. '' Enter: 63 times
+[ char ]: 45 times
+number : ``: 44 times
++ , -: 38 times
+, - ,: 38 times
+- , *: 38 times
+, * ,: 38 times
+* , /: 34 times
+( + ,: 32 times
+
+
+File: Fortune Favet Audaci.txt
+
+Top 10 most common 3-grams:
+: 1 .: 33 times
+, and the: 26 times
+. - The: 25 times
+. 2 .: 25 times
+. 3 .: 23 times
+, such as: 21 times
+. * *: 21 times
+. LD :: 20 times
+: https :: 17 times
+. 4 .: 17 times
+
+
+Skipping Forward-thinking Operations.txt: Not UTF-8 encoded.
+
+Skipping Fractal Fold Encoding.txt: Not UTF-8 encoded.
+
+Skipping Fractal Tree Pans.txt: Not UTF-8 encoded.
+
+File: Free Energy Minimization.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Free Lunch Vibes.txt
+
+Top 10 most common 3-grams:
+var ( --: 1056 times
+) ; }: 747 times
+, var (: 466 times
+: rgba (: 458 times
+) ) ;: 401 times
+: 1 ;: 385 times
+: var (: 247 times
+: where (: 233 times
+: 0px ;: 225 times
+; } .katex: 221 times
+
+
+Skipping Free-Energy Framework.txt: Not UTF-8 encoded.
+
+Skipping Frustration with Misleading Information.txt: Not UTF-8 encoded.
+
+Skipping Function Application Expansion.txt: Not UTF-8 encoded.
+
+Skipping Function simplification in Lean.txt: Not UTF-8 encoded.
+
+File: Functional Python Programming.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 474 times
+, var (: 324 times
+: rgba (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 157 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Functionally Redundant Meanings.txt: Not UTF-8 encoded.
+
+Skipping Fundamental Physics Contains Spoilers.txt: Not UTF-8 encoded.
+
+Skipping Future Psychohistory Computation.txt: Not UTF-8 encoded.
+
+File: Futurist Portraits.txt
+
+Top 10 most common 3-grams:
+. * *: 29 times
+? * *: 11 times
+* * Ok: 9 times
+large language models: 8 times
+Large Language Models: 6 times
+the concept of: 6 times
+* * Gave: 6 times
+* Gave it: 6 times
+new ideas and: 6 times
+Definition : A: 6 times
+
+
+Skipping Futuristic Tech.txt: Not UTF-8 encoded.
+
+Skipping Fuzzy Bayesian Logic.txt: Not UTF-8 encoded.
+
+Skipping Fuzzy Yarnball Infodynamics.txt: Not UTF-8 encoded.
+
+Skipping Fuzzy Yarnball Information Theory.txt: Not UTF-8 encoded.
+
+Skipping Gait Misattribution Error.txt: Not UTF-8 encoded.
+
+Skipping Galaxy Mimetics.txt: Not UTF-8 encoded.
+
+Skipping Gameified Free Will.txt: Not UTF-8 encoded.
+
+File: Gardener of Galaxies.txt
+
+Top 10 most common 3-grams:
+var ( --: 1008 times
+) ; }: 724 times
+, var (: 451 times
+: rgba (: 442 times
+) ) ;: 390 times
+: 1 ;: 382 times
+: var (: 236 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 209 times
+
+
+Skipping Gaussian Auras.txt: Not UTF-8 encoded.
+
+File: Gendicca and Haplopraxis.txt
+
+Top 10 most common 3-grams:
+# # Usuario: 30 times
+# # Bing: 30 times
+? # #: 27 times
+. # #: 24 times
+How do you: 23 times
+# Bing I: 19 times
+? How do: 19 times
+? Do you: 18 times
+Bing I see: 16 times
+I see .: 16 times
+
+
+Skipping Generalized Learning through Integrative Biomimicry.txt: Not UTF-8 encoded.
+
+Skipping Generative Programming Assisstant.txt: Not UTF-8 encoded.
+
+Skipping Geodesic Metaphors.txt: Not UTF-8 encoded.
+
+Skipping Geometric Bayesianism Explained.txt: Not UTF-8 encoded.
+
+Skipping Geometric Bayesianism.txt: Not UTF-8 encoded.
+
+Skipping Geometric Comparisons.txt: Not UTF-8 encoded.
+
+File: Geometric Cosmology and Algebra.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Geometric Deep Learning.txt: Not UTF-8 encoded.
+
+Skipping Geometric Reasoning on Graphs.txt: Not UTF-8 encoded.
+
+Skipping Get Active Displays PowerShell.txt: Not UTF-8 encoded.
+
+Skipping Glass Transition Model.txt: Not UTF-8 encoded.
+
+Skipping GLIB Theory Interpretations.txt: Not UTF-8 encoded.
+
+Skipping Glossary for Nuspeak.txt: Not UTF-8 encoded.
+
+Skipping Glossary Game.txt: Not UTF-8 encoded.
+
+Skipping Gnotobiotic Metaphors.txt: Not UTF-8 encoded.
+
+Skipping Goals for Haplopraxis.txt: Not UTF-8 encoded.
+
+Skipping Grabby Aliens Attack.txt: Not UTF-8 encoded.
+
+Skipping Graphical Reasoning Engine.txt: Not UTF-8 encoded.
+
+File: group-theory.txt
+
+Top 10 most common 3-grams:
+the set of: 10 times
+theory , and: 10 times
+, ... ,: 9 times
+the study of: 9 times
+algebraic geometry ,: 9 times
+areas of mathematics: 9 times
+is a mathematical: 8 times
+. In other: 8 times
+In other words: 8 times
+other words ,: 8 times
+
+
+File: Gumball Economy.txt
+
+Top 10 most common 3-grams:
+superconductivity of LK-99: 8 times
+( 2 ): 7 times
+and ambient pressure: 7 times
+the cylindrical column: 6 times
+of the cylindrical: 5 times
+room temperature and: 5 times
+temperature and ambient: 5 times
+at room temperature: 5 times
+. The superconductivity: 4 times
+The superconductivity of: 4 times
+
+
+Skipping Harmonic Algebraic Existence Theory.txt: Not UTF-8 encoded.
+
+File: Haskell proof of the ontological argument.txt
+
+Top 10 most common 3-grams:
+< expr >: 17 times
+< interactive >: 12 times
+: error :: 12 times
+< cmd >: 8 times
+error : Variable: 8 times
+: Variable not: 8 times
+Variable not in: 8 times
+not in scope: 8 times
+in scope :: 8 times
+[ * ]: 7 times
+
+
+Skipping Heterarchical Adaptive Control through Kinematic Chains.txt: Not UTF-8 encoded.
+
+File: heterarchical-active-control.txt
+
+Top 10 most common 3-grams:
+Free Energy Principle: 15 times
+the Free Energy: 13 times
+Principle ( FEP: 10 times
+( FEP ): 10 times
+Energy Principle (: 9 times
+A and B: 9 times
+classical and quantum: 7 times
+both classical and: 5 times
+. The article: 5 times
+in active inference: 5 times
+
+
+Skipping Hexagonal Self-Hypnosis.txt: Not UTF-8 encoded.
+
+File: Hexagonal Yoking.txt
+
+Top 10 most common 3-grams:
+the world .: 21 times
+, and the: 20 times
+with the world: 18 times
+. User I: 17 times
+the importance of: 15 times
+can lead to: 14 times
+the world ,: 12 times
+Heptagonal Yoking '': 12 times
+`` Heptagonal Yoking: 11 times
+. This perspective: 10 times
+
+
+Skipping History of Microcomputers.txt: Not UTF-8 encoded.
+
+Skipping History of Pluto.txt: Not UTF-8 encoded.
+
+File: History of Standard Galactic.txt
+
+Top 10 most common 3-grams:
+Standard Galactic Alphabet: 23 times
+The Standard Galactic: 12 times
+Commander Keen series: 12 times
+the Standard Galactic: 11 times
+the Commander Keen: 11 times
+Galactic Alphabet (: 6 times
+Alphabet ( SGA: 6 times
+( SGA ): 6 times
+of the SGA: 6 times
+the gaming industry: 6 times
+
+
+File: Hoarding for Sustainability.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Hobbes on Human Nature.txt: Not UTF-8 encoded.
+
+File: holistic-response.txt
+
+Top 10 most common 3-grams:
+hemisphere is more: 32 times
+is more concerned: 24 times
+more concerned with: 24 times
+concerned with the: 22 times
+. The left: 21 times
+The left hemisphere: 21 times
+the right hemisphere: 21 times
+left hemisphere is: 19 times
+, while the: 18 times
+while the right: 18 times
+
+
+Skipping Holographic Seam-mapping.txt: Not UTF-8 encoded.
+
+File: holotype-theory.txt
+
+Top 10 most common 3-grams:
+> > >: 43 times
+] , [: 16 times
+'' , line: 11 times
+'' , ``: 8 times
+= client.messages.create (: 8 times
+client.messages.create ( ...: 8 times
+... max_tokens=2000 ,: 8 times
+max_tokens=2000 , ...: 8 times
+, ... temperature=0.3: 8 times
+... messages= [: 8 times
+
+
+File: horn-torus-1.txt
+
+Top 10 most common 3-grams:
+the horn torus: 120 times
+the Riemann sphere: 96 times
+the complex plane: 72 times
+of the torus: 61 times
+horn torus ,: 49 times
+of the sphere: 37 times
+on the sphere: 35 times
+to the horn: 35 times
+mapping from the: 34 times
+sphere to the: 34 times
+
+
+Skipping Hotstring Helper.txt: Not UTF-8 encoded.
+
+File: Hotstrings.txt
+
+Top 10 most common 3-grams:
+-- -- --: 374 times
+; ; ;: 176 times
+; ; :: 97 times
+: * :: 60 times
+: C :: 51 times
+: : (: 38 times
+: ? :: 31 times
+) ; ;: 30 times
+: o :: 27 times
+: :Send ,: 20 times
+
+
+Skipping How to Build a Mind.txt: Not UTF-8 encoded.
+
+File: How to Kill a Noiselord.txt
+
+Top 10 most common 3-grams:
+var ( --: 975 times
+) ; }: 697 times
+, var (: 423 times
+: rgba (: 413 times
+) ) ;: 370 times
+: 1 ;: 356 times
+: var (: 235 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 204 times
+
+
+Skipping Human Impersonation.txt: Not UTF-8 encoded.
+
+Skipping Human Values and Evolution.txt: Not UTF-8 encoded.
+
+Skipping Humans as Large LMs.txt: Not UTF-8 encoded.
+
+File: Hume Capabilities Test.txt
+
+Top 10 most common 3-grams:
+. Why do: 6 times
+Why do n't: 6 times
+, that 's: 5 times
+? I am: 5 times
+Mereological Space Ontology: 4 times
+Space Ontology ,: 4 times
+do n't we: 4 times
+, holistic anocracy: 4 times
+. I am: 3 times
+do n't you: 3 times
+
+
+Skipping Hyperbolated Data Storage.txt: Not UTF-8 encoded.
+
+File: hyperdimensional-primer.txt
+
+Top 10 most common 3-grams:
+Null Convention Logic: 11 times
+Symbolic Logic ,: 10 times
+Mind as a: 10 times
+Axiology of Love: 9 times
+, technology ,: 9 times
+of Symbolic Logic: 8 times
+, and more: 8 times
+Hyper-Dimensional Primer on: 7 times
+Primer on Logical: 7 times
+on Logical Constructs: 7 times
+
+
+File: hyperon.txt
+
+Top 10 most common 3-grams:
+the OpenCog Hyperon: 53 times
+Large Language Models: 32 times
+OpenCog Hyperon paper: 30 times
+, and the: 26 times
+of the OpenCog: 25 times
+Here 's a: 21 times
+`` Multivac Colossus: 20 times
+large language models: 19 times
+Multivac Colossus '': 16 times
+the development of: 15 times
+
+
+File: Hyperpleonastic Media.txt
+
+Top 10 most common 3-grams:
+et al. ,: 77 times
+et al .: 42 times
+al . (: 41 times
+al. , 2023: 22 times
+( e.g. ,: 22 times
+( 2023 ): 19 times
+the model 's: 18 times
+( FVs ): 17 times
+. ( 2023: 17 times
+. Here 's: 16 times
+
+
+Skipping Hyperthymesia Unchained.txt: Not UTF-8 encoded.
+
+File: I understand your perspective.txt
+
+Top 10 most common 3-grams:
+. . .: 63 times
+. However ,: 8 times
+. It 's: 7 times
+such a system: 5 times
+the use of: 5 times
+It 's important: 5 times
+'s important to: 5 times
+. It is: 4 times
+machine learning models: 4 times
+Bayesian factor analysis: 4 times
+
+
+Skipping Ideational Apraxia.txt: Not UTF-8 encoded.
+
+File: Ideology and Corruption.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Ideophones.txt
+
+Top 10 most common 3-grams:
+'' > <: 2432 times
+> < div: 1135 times
+< /div >: 1135 times
+/div > <: 1135 times
+< div class=: 1127 times
+div class= '': 1127 times
+> < /div: 1090 times
+var ( --: 732 times
+'' round '': 712 times
+'' 1em '': 712 times
+
+
+File: Idiolectal Quirks.txt
+
+Top 10 most common 3-grams:
+, and the: 23 times
+. However ,: 17 times
+the nature of: 14 times
+philosophy of mind: 9 times
+of mind ,: 9 times
+. User I: 9 times
+could lead to: 8 times
+? Claude :: 7 times
+. This could: 7 times
+the use of: 7 times
+
+
+File: Idiolectales Eccentricitates.txt
+
+Top 10 most common 3-grams:
+, sed etiam: 10 times
+, praesertim in: 8 times
+. DP :: 7 times
+? Claude :: 7 times
+Proelio de Ender: 6 times
+. Exempli gratia: 5 times
+Exempli gratia ,: 5 times
+. Nihilominus ,: 5 times
+. Fac me: 4 times
+Fac me certiorem: 4 times
+
+
+Skipping Illusory Precision.txt: Not UTF-8 encoded.
+
+Skipping Illustrated Man Adaptation.txt: Not UTF-8 encoded.
+
+Skipping Image Resizing with Entropy.txt: Not UTF-8 encoded.
+
+File: Imaginative Earth Perspective.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+) ; }: 695 times
+, var (: 417 times
+: rgba (: 411 times
+) ) ;: 364 times
+: 1 ;: 352 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 217 times
+: 0px ;: 205 times
+
+
+File: imperfect-vacuum.txt
+
+Top 10 most common 3-grams:
+Reference files :: 38 times
+. Reference files: 35 times
+, and the: 7 times
+. It is: 6 times
+? Yes ,: 6 times
+, such as: 6 times
+be seen as: 6 times
+seen as a: 6 times
+as a metaphor: 6 times
+a metaphor for: 6 times
+
+
+Skipping Improved Problem Solving Framework.txt: Not UTF-8 encoded.
+
+Skipping Include file text in README.txt: Not UTF-8 encoded.
+
+File: Index-of-Repositories.txt
+
+Top 10 most common 3-grams:
+published by Packt: 188 times
+, published by: 187 times
+Julia package for: 110 times
+implementation of the: 92 times
+A collection of: 74 times
+A Julia package: 71 times
+scientific machine learning: 67 times
+curated list of: 64 times
+A curated list: 62 times
+written in Go: 61 times
+
+
+File: index.txt
+
+Top 10 most common 3-grams:
+; break ;: 26 times
+break ; case: 26 times
+; case ': 22 times
+= false ;: 14 times
+false ; break: 12 times
+( ) ;: 11 times
+= true ;: 10 times
+> < li: 9 times
+< li >: 9 times
+< /li >: 9 times
+
+
+Skipping Individual Transcendence.txt: Not UTF-8 encoded.
+
+Skipping Individuality in the Age of Spiritual Machines.txt: Not UTF-8 encoded.
+
+Skipping Inferring System Capabilities.txt: Not UTF-8 encoded.
+
+File: Innate-flying-dreams.txt
+
+Top 10 most common 3-grams:
+. And so: 11 times
+. And I: 10 times
+. It 's: 10 times
+a kind of: 9 times
+. You can: 9 times
+You can use: 7 times
+I 'm thinking: 6 times
+do n't have: 5 times
+, which is: 5 times
+what we call: 5 times
+
+
+Skipping Innermost Nested Bubble.txt: Not UTF-8 encoded.
+
+Skipping Inoculation Against Surprise.txt: Not UTF-8 encoded.
+
+File: input-test.txt
+
+Top 10 most common 3-grams:
+Test to *: 1 times
+to * *: 1 times
+* * see: 1 times
+* see *: 1 times
+see * *: 1 times
+* * what: 1 times
+* what this: 1 times
+what this does: 1 times
+
+
+File: input.txt
+
+Top 10 most common 3-grams:
+the Rhyzomeres ': 3 times
+* : ``: 3 times
+. '' *: 3 times
+'' * Rhyzomere: 3 times
+* Rhyzomere Leader: 3 times
+Rhyzomere Leader *: 3 times
+) : ``: 3 times
+? '' *: 3 times
+an air-protein device: 2 times
+* Sam *: 2 times
+
+
+Skipping Instructions to Shuruppak.txt: Not UTF-8 encoded.
+
+Skipping Integrative Complexity.txt: Not UTF-8 encoded.
+
+Skipping Intellectology Unveiled.txt: Not UTF-8 encoded.
+
+File: Interactive Feedback Hypothesis.txt
+
+Top 10 most common 3-grams:
+the formation of: 10 times
+Interactive Feedback Hypothesis: 7 times
+and organization of: 7 times
+formation of complex: 7 times
+that embryonic movements: 7 times
+( ECM ): 6 times
+of the ECM: 6 times
+embryonic development ,: 6 times
+the differentiation of: 6 times
+fluid shear stress: 6 times
+
+
+Skipping Interactive Feedback Learning.txt: Not UTF-8 encoded.
+
+Skipping Interdependent Disciplines.txt: Not UTF-8 encoded.
+
+Skipping Interpolar Diaspora.txt: Not UTF-8 encoded.
+
+File: intersubjectividad.txt
+
+Top 10 most common 3-grams:
+a través de: 21 times
+, lo que: 20 times
+de la IA: 16 times
+de la conciencia: 16 times
+de la intersubjetividad: 13 times
+. Los puntos: 11 times
+Los puntos clave: 11 times
+de otros fenómenos: 11 times
+en el contexto: 10 times
+tipos de mentes: 10 times
+
+
+File: intersubjectivity.txt
+
+Top 10 most common 3-grams:
+. Key points: 11 times
+types of minds: 11 times
+in the context: 10 times
+the context of: 10 times
+in the universe: 9 times
+the phantom cognit: 9 times
+: The argument: 9 times
+the concept of: 8 times
+intersubjectivity collapse .: 8 times
+: The author: 8 times
+
+
+File: Introduction to Lojban.txt
+
+Top 10 most common 3-grams:
+'' > <: 7020 times
+> < div: 3044 times
+< /div >: 3044 times
+/div > <: 3044 times
+< div class=: 3041 times
+div class= '': 3041 times
+> < /div: 2923 times
+'' round '': 2020 times
+'' 1em '': 2020 times
+2 0 0: 1767 times
+
+
+File: Introduction to Null Wave Algebra.txt
+
+Top 10 most common 3-grams:
+'' > <: 854 times
+: rgb (: 516 times
+> < div: 463 times
+< /div >: 463 times
+/div > <: 463 times
+> < /div: 418 times
+< div class=: 396 times
+div class= '': 396 times
+) ; }: 351 times
+255 , 255: 286 times
+
+
+File: introduction-to-chatgpt.txt
+
+Top 10 most common 3-grams:
+can be used: 19 times
+natural language processing: 17 times
+ChatGPT can be: 17 times
+be used to: 17 times
+of ChatGPT ,: 11 times
+to understand the: 11 times
+: ChatGPT can: 11 times
+, such as: 10 times
+How Does ChatGPT: 9 times
+Does ChatGPT Work: 9 times
+
+
+File: INTRODUCTION.txt
+
+Top 10 most common 3-grams:
+7 x 10^9: 2 times
+x 10^9 x: 2 times
+INTRODUCTION On the: 1 times
+On the Writing: 1 times
+the Writing of: 1 times
+Writing of History: 1 times
+of History History: 1 times
+History History has: 1 times
+History has the: 1 times
+has the relation: 1 times
+
+
+Skipping Inverse Chokepoint Capitalism.txt: Not UTF-8 encoded.
+
+Skipping Invert Colors in PDF.txt: Not UTF-8 encoded.
+
+Skipping Invert Colors.txt: Not UTF-8 encoded.
+
+File: iter-chronologicum.txt
+
+Top 10 most common 3-grams:
+< 00:00 ,: 31 times
+: 100 %: 21 times
+[ 00:00 <: 11 times
+00:00 < ?: 11 times
+< ? ,: 11 times
+? , ?: 11 times
+used = [: 10 times
+] | 0/1: 10 times
+| 0/1 [: 10 times
+0/1 [ 00:00: 10 times
+
+
+Skipping Iterated Recursive Loops.txt: Not UTF-8 encoded.
+
+Skipping Jax programming examples.txt: Not UTF-8 encoded.
+
+Skipping Keen Dreams.txt: Not UTF-8 encoded.
+
+File: Kelp-based Frozen Yogurt.txt
+
+Top 10 most common 3-grams:
+var ( --: 661 times
+) ; }: 480 times
+: rgba (: 322 times
+, var (: 322 times
+) ) ;: 276 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Knowledge Graphs.txt
+
+Top 10 most common 3-grams:
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Knowledge Leakage.txt
+
+Top 10 most common 3-grams:
+) ; }: 1638 times
+: root .dark-theme: 1357 times
+: not (: 1088 times
+var ( --: 968 times
+: var (: 899 times
+: rgba (: 878 times
+} : root: 855 times
+; } :: 837 times
+, 0 ,: 756 times
+: rgb (: 755 times
+
+
+Skipping Lacan's Theories, Philosophies.txt: Not UTF-8 encoded.
+
+File: Lambiscopolix Whispers.txt
+
+Top 10 most common 3-grams:
+var ( --: 1056 times
+) ; }: 752 times
+, var (: 466 times
+: rgba (: 459 times
+) ) ;: 401 times
+: 1 ;: 391 times
+: var (: 247 times
+: where (: 233 times
+: 0px ;: 228 times
+; } .katex: 221 times
+
+
+File: language-swap-test.txt
+
+Top 10 most common 3-grams:
+'' > <: 3 times
+' ) format: 3 times
+) format (: 3 times
+> < meta: 2 times
+' ) ,: 2 times
+) , url: 2 times
+, url (: 2 times
+: normal ;: 2 times
+font-family : 'Sga: 2 times
+: 'Sga Regular: 2 times
+
+
+Skipping Latent Confounder Causal Inference.txt: Not UTF-8 encoded.
+
+Skipping Latin Conditional Sentences.txt: Not UTF-8 encoded.
+
+File: Layers of Time.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 473 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Leaking Chatroom Theory.txt: Not UTF-8 encoded.
+
+File: lean-theorem-prover.txt
+
+Top 10 most common 3-grams:
+_ _ _: 44 times
+the calculus of: 36 times
+calculus of constructions: 34 times
+in Lean :: 23 times
+. • The: 21 times
+. • Lean: 20 times
+Lean and Coq: 17 times
+: leanCopy code: 15 times
+( CoC ): 13 times
+a proof of: 13 times
+
+
+File: Lenses and Learners.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Limitations of Expected Utility.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 474 times
+, var (: 324 times
+: rgba (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 157 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: linked-oscillators.txt
+
+Top 10 most common 3-grams:
+> > >: 61 times
+eval count :: 56 times
+token ( s: 56 times
+( s ): 56 times
+eval duration :: 56 times
+eval rate :: 56 times
+total duration :: 28 times
+load duration :: 28 times
+prompt eval count: 28 times
+s ) prompt: 28 times
+
+
+Skipping Linux Swarmbots.txt: Not UTF-8 encoded.
+
+Skipping Liquid Frame Reduction.txt: Not UTF-8 encoded.
+
+Skipping Liquid Terra Preta.txt: Not UTF-8 encoded.
+
+Skipping LLM SelfCheck for Reasoning.txt: Not UTF-8 encoded.
+
+File: llm-workflow-engine.txt
+
+Top 10 most common 3-grams:
+# # #: 237 times
+LLM Workflow Engine: 68 times
+) : default: 52 times
+: default Mecha: 52 times
+default Mecha @: 52 times
+Mecha @ gpt-4: 51 times
+. * *: 51 times
+: * *: 51 times
+Workflow Engine :: 42 times
+Engine : Complete: 42 times
+
+
+Skipping LMs for VWSD Enhancement.txt: Not UTF-8 encoded.
+
+File: local-ancient-languages.txt
+
+Top 10 most common 3-grams:
+> > >: 6 times
+) - Day: 4 times
+- Day .: 4 times
+) - God: 4 times
+. Here are: 3 times
+Here are some: 3 times
+: 1 .: 3 times
+. 2 .: 3 times
+. 3 .: 3 times
+. 4 .: 3 times
+
+
+File: Logarithmic History of the World.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 478 times
+: rgba (: 320 times
+, var (: 320 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Longer Pauses.txt: Not UTF-8 encoded.
+
+File: mac super resolution first session.txt
+
+Top 10 most common 3-grams:
+=== > Epoch: 1530 times
+> Epoch [: 1500 times
+) : Loss: 1500 times
+: Loss :: 1500 times
+'' , line: 104 times
+) File ``: 61 times
+Loss : 0.0033: 56 times
+: 0.0033 ===: 56 times
+0.0033 === >: 56 times
+Loss : 0.0034: 52 times
+
+
+Skipping Machine Intelligence and Human Perception.txt: Not UTF-8 encoded.
+
+Skipping Machine Learning and Visualization.txt: Not UTF-8 encoded.
+
+Skipping Macrolife Chronicles.txt: Not UTF-8 encoded.
+
+Skipping Macrolife.txt: Not UTF-8 encoded.
+
+File: Make It Seem Rebellious.txt
+
+Top 10 most common 3-grams:
+var ( --: 1056 times
+) ; }: 752 times
+, var (: 466 times
+: rgba (: 459 times
+) ) ;: 401 times
+: 1 ;: 391 times
+: var (: 247 times
+: where (: 233 times
+: 0px ;: 228 times
+; } .katex: 221 times
+
+
+Skipping Making Connections.txt: Not UTF-8 encoded.
+
+Skipping Manifold Differences Explained.txt: Not UTF-8 encoded.
+
+Skipping Manifolds and Voronoi Diagrams.txt: Not UTF-8 encoded.
+
+File: mapping-connections.txt
+
+Top 10 most common 3-grams:
+'' , ``: 41 times
+. User :: 39 times
+'' and ``: 21 times
+the context of: 20 times
+. In the: 19 times
+'' - This: 17 times
+- This term: 17 times
+'' - To: 17 times
+In the context: 16 times
+Assistant : The: 16 times
+
+
+File: math code.txt
+
+Top 10 most common 3-grams:
+) ) ): 13 times
+abs ( G: 10 times
+( G (: 10 times
+; set (: 9 times
+) ) ;: 8 times
+( abs (: 8 times
+( : ): 8 times
+set ( h: 8 times
+( h ,: 8 times
+G ( :: 6 times
+
+
+Skipping Math Topics Overview.txt: Not UTF-8 encoded.
+
+File: math-topics.txt
+
+Top 10 most common 3-grams:
+, and the: 22 times
+. It 's: 21 times
+understanding of the: 14 times
+. However ,: 13 times
+'s important to: 13 times
+the concept of: 11 times
+( n ,: 11 times
+, it 's: 11 times
+n , K: 10 times
+, K ): 10 times
+
+
+Skipping Mathematical Foundations for Compositional Bayesian Brain.txt: Not UTF-8 encoded.
+
+File: Mechanical Design Principles.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 478 times
+: rgba (: 320 times
+, var (: 320 times
+) ) ;: 275 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Megascale Structures.txt
+
+Top 10 most common 3-grams:
+var ( --: 583 times
+) ; }: 429 times
+, var (: 286 times
+: rgba (: 282 times
+) ) ;: 242 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 143 times
+{ font-size :: 141 times
+: not (: 127 times
+
+
+File: Mental Development.txt
+
+Top 10 most common 3-grams:
+a lot of: 11 times
+didn ’ t: 11 times
+it ’ s: 11 times
+typical mind fallacy: 10 times
+don ’ t: 8 times
+, but I: 8 times
+can ’ t: 7 times
+I ’ m: 7 times
+, and that: 7 times
+the `` typical: 7 times
+
+
+File: meta-axiology.txt
+
+Top 10 most common 3-grams:
+the nature of: 21 times
+( Nature of: 21 times
+, and the: 17 times
+, epistemology ,: 15 times
+. If you: 15 times
+If you have: 14 times
+feel free to: 14 times
+Values of the: 13 times
+Nature of Reality: 13 times
+epistemology , and: 13 times
+
+
+Skipping Meta-Mind Complexity.txt: Not UTF-8 encoded.
+
+Skipping Meta-Prompting Analogies.txt: Not UTF-8 encoded.
+
+Skipping Metabotropic Cognition.txt: Not UTF-8 encoded.
+
+Skipping Metaphors for Complex Issues.txt: Not UTF-8 encoded.
+
+Skipping Metaphysics as Logic.txt: Not UTF-8 encoded.
+
+Skipping MeTTa Formalization with Metagraphs.txt: Not UTF-8 encoded.
+
+File: Mexican Death Whistle Theories.txt
+
+Top 10 most common 3-grams:
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+File: Micromegas Ontology.txt
+
+Top 10 most common 3-grams:
+of the universe: 20 times
+, and the: 19 times
+of existence ,: 14 times
+the Bayesian Brain: 13 times
+mereological space ontology: 12 times
+of existence .: 11 times
+, from the: 11 times
+interconnectedness of all: 10 times
+the universe ,: 10 times
+the universe .: 10 times
+
+
+Skipping Mimetic Holomorph Recognition.txt: Not UTF-8 encoded.
+
+Skipping Mimetic Participation.txt: Not UTF-8 encoded.
+
+File: Mind Reading Not Necessary.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Mind-making Machines.txt: Not UTF-8 encoded.
+
+File: mind-making-machines.txt
+
+Top 10 most common 3-grams:
+. Bob :: 29 times
+. Alice :: 24 times
+Alice and Bob: 22 times
+`` Mind-Making Machines: 20 times
+Mind-Making Machines '': 15 times
+? Alice :: 13 times
+Would you like: 11 times
+you like to: 11 times
+. Would you: 10 times
+the ethical and: 9 times
+
+
+File: mindgame-firstdraft.txt
+
+Top 10 most common 3-grams:
+'s up ?: 3 times
+I 'm playing: 2 times
+'m playing a: 2 times
+playing a game: 2 times
+a game with: 2 times
+game with myself: 2 times
+with myself in: 2 times
+myself in my: 2 times
+in my mind: 2 times
+my mind .: 2 times
+
+
+File: mindgame.txt
+
+Top 10 most common 3-grams:
+. Hear what: 4 times
+Hear what 's: 4 times
+what 's up: 4 times
+'s up .: 4 times
+I 'm playing: 2 times
+a game with: 2 times
+game with myself: 2 times
+with myself in: 2 times
+myself in my: 2 times
+in my mind: 2 times
+
+
+Skipping Misunderstanding about Soup.txt: Not UTF-8 encoded.
+
+Skipping Mixing Mistakes to Avoid.txt: Not UTF-8 encoded.
+
+Skipping Mixture of Experts.txt: Not UTF-8 encoded.
+
+Skipping Mneumonic Superstructures.txt: Not UTF-8 encoded.
+
+File: Model Comparison.txt
+
+Top 10 most common 3-grams:
+var ( --: 1055 times
+) ; }: 740 times
+, var (: 468 times
+: rgba (: 459 times
+) ) ;: 402 times
+: 1 ;: 385 times
+: var (: 244 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 218 times
+
+
+Skipping Model Complexity.txt: Not UTF-8 encoded.
+
+Skipping Model Limitations Revealed.txt: Not UTF-8 encoded.
+
+File: model-test.txt
+
+Top 10 most common 3-grams:
+null wave front: 19 times
+propagating null wave: 15 times
+a propagating null: 11 times
+Null Convention Logic: 11 times
+in Null Convention: 7 times
+to represent the: 6 times
+know that it: 6 times
+purpose of a: 5 times
+of a propagating: 5 times
+wave front in: 5 times
+
+
+Skipping Modeling Possibility Space.txt: Not UTF-8 encoded.
+
+File: Modifying Nature Directly.txt
+
+Top 10 most common 3-grams:
+'' > <: 2665 times
+> < div: 1660 times
+< /div >: 1660 times
+/div > <: 1660 times
+> < /div: 1595 times
+< div class=: 1527 times
+div class= '': 1527 times
+var ( --: 947 times
+2 0 0: 866 times
+: hover :: 776 times
+
+
+Skipping Modular Agents Enhance Learning.txt: Not UTF-8 encoded.
+
+Skipping Monad Shadows.txt: Not UTF-8 encoded.
+
+Skipping Monolithic Undertones.txt: Not UTF-8 encoded.
+
+Skipping Monotonic Phenomenological Explications.txt: Not UTF-8 encoded.
+
+Skipping Moot Point Generators.txt: Not UTF-8 encoded.
+
+Skipping Morphodynamic Work.txt: Not UTF-8 encoded.
+
+Skipping Morphogenic Chemistry.txt: Not UTF-8 encoded.
+
+File: mortal-computers.txt
+
+Top 10 most common 3-grams:
+of mortal computation: 51 times
+the system 's: 28 times
+a mortal computer: 27 times
+the environment .: 21 times
+. This approach: 21 times
+. This section: 20 times
+. Here 's: 19 times
+its environment .: 18 times
+the principles of: 18 times
+of the key: 17 times
+
+
+File: mouseover.txt
+
+Top 10 most common 3-grams:
+html > <: 2 times
+< ! DOCTYPE: 1 times
+! DOCTYPE html: 1 times
+DOCTYPE html >: 1 times
+> < html: 1 times
+< html >: 1 times
+> < head: 1 times
+< head >: 1 times
+head > <: 1 times
+> < title: 1 times
+
+
+Skipping Move Files to Dark Mode.txt: Not UTF-8 encoded.
+
+Skipping Multi-Concept Prompt Learning.txt: Not UTF-8 encoded.
+
+File: Multi-head Attention.txt
+
+Top 10 most common 3-grams:
+'' > <: 1401 times
+> < div: 602 times
+< /div >: 602 times
+/div > <: 602 times
+< div class=: 596 times
+div class= '': 596 times
+var ( --: 590 times
+> < /div: 577 times
+: 0px ;: 471 times
+) ; }: 440 times
+
+
+Skipping Multichrome Simulator.txt: Not UTF-8 encoded.
+
+Skipping Multidimensional Dialogue Systems.txt: Not UTF-8 encoded.
+
+File: Multiscale Intelligence Test.txt
+
+Top 10 most common 3-grams:
+'' > <: 1179 times
+var ( --: 956 times
+> < div: 739 times
+< /div >: 739 times
+/div > <: 739 times
+> < /div: 712 times
+< div class=: 681 times
+div class= '': 681 times
+) ; }: 680 times
+: rgba (: 447 times
+
+
+File: MyLog.txt
+
+Top 10 most common 3-grams:
+  : 2 times
+  : 2 times
+  : 1 times
+  : 1 times
+
+
+Skipping Mysterious and Comical Video.txt: Not UTF-8 encoded.
+
+File: Müllerian mimicry explained.txt
+
+Top 10 most common 3-grams:
+var ( --: 650 times
+) ; }: 471 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: Narrating Visual Content.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Navigating the Supercanny Valley.txt: Not UTF-8 encoded.
+
+Skipping Neanderthal Lithophone.txt: Not UTF-8 encoded.
+
+Skipping Negation Study by Horn.txt: Not UTF-8 encoded.
+
+Skipping Negentropy Organizer.txt: Not UTF-8 encoded.
+
+Skipping Neoteny and Optimism.txt: Not UTF-8 encoded.
+
+Skipping NetGlos Access Issue.txt: Not UTF-8 encoded.
+
+Skipping Neural Basis of Future Prediction.txt: Not UTF-8 encoded.
+
+Skipping Neural Development Programs.txt: Not UTF-8 encoded.
+
+Skipping Neurodynamic Intelligence.txt: Not UTF-8 encoded.
+
+File: Neuron Efficiency Analysis.txt
+
+Top 10 most common 3-grams:
+var ( --: 650 times
+) ; }: 471 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+File: newtons method.txt
+
+Top 10 most common 3-grams:
+{ fmt.Println (: 2 times
+) ) }: 2 times
+newton 's method: 1 times
+'s method in: 1 times
+method in go: 1 times
+in go :: 1 times
+go : :: 1 times
+: : :: 1 times
+: : package: 1 times
+: package main: 1 times
+
+
+File: ngrams.txt
+
+Top 10 most common 3-grams:
+: Not UTF-8: 278 times
+Not UTF-8 encoded: 278 times
+UTF-8 encoded .: 278 times
+encoded . Skipping: 184 times
+Top 10 most: 173 times
+10 most common: 173 times
+most common 3-grams: 173 times
+common 3-grams :: 173 times
+encoded . File: 94 times
+. File :: 94 times
+
+
+File: Nietzschean Influence on Transhumanism.txt
+
+Top 10 most common 3-grams:
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping No replication of study.txt: Not UTF-8 encoded.
+
+Skipping North Statespace.txt: Not UTF-8 encoded.
+
+Skipping Nostalgia Bias.txt: Not UTF-8 encoded.
+
+Skipping Nova Protopia.txt: Not UTF-8 encoded.
+
+File: Null Wave Algebra.txt
+
+Top 10 most common 3-grams:
+var ( --: 945 times
+) ; }: 689 times
+, var (: 413 times
+: rgba (: 409 times
+) ) ;: 362 times
+: 1 ;: 355 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 213 times
+: 0px ;: 207 times
+
+
+File: null-wavefront.txt
+
+Top 10 most common 3-grams:
+Lógica de Convención: 3 times
+de Convención Nula: 3 times
+la onda nula: 3 times
+en la Lógica: 2 times
+la Lógica de: 2 times
+diseño de circuitos: 2 times
+de un reloj: 2 times
+un reloj global: 2 times
+y eficiente .: 2 times
+, la onda: 2 times
+
+
+File: Nullwave Algebra.txt
+
+Top 10 most common 3-grams:
+: * *: 74 times
+* * *: 72 times
+. * *: 49 times
+> > >: 19 times
+absence of a: 14 times
+the area of: 13 times
+the absence of: 12 times
+. > >: 10 times
+( 36 ): 10 times
+sin ( 36: 9 times
+
+
+Skipping Objective Mismatch Solutions.txt: Not UTF-8 encoded.
+
+File: Obscure Book for Enthusiasts.txt
+
+Top 10 most common 3-grams:
+var ( --: 659 times
+) ; }: 478 times
+: rgba (: 320 times
+, var (: 320 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Oceanic Megastructures.txt: Not UTF-8 encoded.
+
+Skipping Oddly-Named Derivatives.txt: Not UTF-8 encoded.
+
+Skipping Odyssey to Echelon.txt: Not UTF-8 encoded.
+
+File: old-index.txt
+
+Top 10 most common 3-grams:
+; break ;: 16 times
+= false ;: 14 times
+break ; case: 14 times
+) ; //: 8 times
+= true ;: 8 times
+true ; break: 8 times
+false ; break: 8 times
+false ; var: 5 times
+: Math.random (: 4 times
+Math.random ( ): 4 times
+
+
+Skipping Optimization Tradeoffs.txt: Not UTF-8 encoded.
+
+Skipping Optoelectronic Sceptron.txt: Not UTF-8 encoded.
+
+Skipping Origin of Mass and Gravity.txt: Not UTF-8 encoded.
+
+File: output.txt
+
+Top 10 most common 3-grams:
+the Rhyzomeres ': 3 times
+'' 𝐑𝐡𝐲𝐳𝐨𝐦𝐞𝐫𝐞 𝐋𝐞𝐚𝐝𝐞𝐫: 3 times
+) : ``: 3 times
+an air-protein device: 2 times
+It 's a: 2 times
+𝐑𝐡𝐲𝐳𝐨𝐦𝐞𝐫𝐞 𝐋𝐞𝐚𝐝𝐞𝐫 :: 2 times
+𝐋𝐞𝐚𝐝𝐞𝐫 : ``: 2 times
+? '' 𝐑𝐡𝐲𝐳𝐨𝐦𝐞𝐫𝐞: 2 times
+Grabby Aliens Attack: 1 times
+Aliens Attack Incorporating: 1 times
+
+
+Skipping Overfitting Brain and Dreams.txt: Not UTF-8 encoded.
+
+Skipping Palimpsest Versioning.txt: Not UTF-8 encoded.
+
+Skipping Pandemonium Model for Learning.txt: Not UTF-8 encoded.
+
+Skipping Panprotopsychism and Property Instantiation.txt: Not UTF-8 encoded.
+
+File: Pantomimetic Origin Of Language.txt
+
+Top 10 most common 3-grams:
+var ( --: 1056 times
+) ; }: 752 times
+, var (: 466 times
+: rgba (: 459 times
+) ) ;: 401 times
+: 1 ;: 391 times
+: var (: 247 times
+: where (: 233 times
+: 0px ;: 228 times
+; } .katex: 221 times
+
+
+File: Parrots and Language Understanding.txt
+
+Top 10 most common 3-grams:
+'' > <: 838 times
+var ( --: 805 times
+) ; }: 576 times
+> < div: 413 times
+< /div >: 413 times
+/div > <: 413 times
+> < /div: 397 times
+< div class=: 380 times
+div class= '': 380 times
+: rgba (: 379 times
+
+
+File: Perception Control System.txt
+
+Top 10 most common 3-grams:
+'' > <: 3817 times
+> < div: 1656 times
+< /div >: 1656 times
+/div > <: 1656 times
+< div class=: 1653 times
+div class= '': 1653 times
+> < /div: 1586 times
+'' round '': 1098 times
+'' 1em '': 1098 times
+: 0px ;: 1029 times
+
+
+Skipping Perigenetic Algorithms.txt: Not UTF-8 encoded.
+
+Skipping Permission Handling Emojis.txt: Not UTF-8 encoded.
+
+Skipping Perpetual Truth Detector.txt: Not UTF-8 encoded.
+
+File: perpetual-truth-detector.txt
+
+Top 10 most common 3-grams:
+. If you: 41 times
+, and the: 40 times
+yes or no: 40 times
+feel free to: 39 times
+or no .: 39 times
+Answer yes or: 38 times
+no . —: 38 times
+? Answer yes: 37 times
+. It 's: 34 times
+If you have: 34 times
+
+
+File: personal-questions.txt
+
+Top 10 most common 3-grams:
+. It 's: 12 times
+the importance of: 10 times
+nature of scientific: 9 times
+It 's a: 8 times
+, such as: 7 times
+. Certainly !: 7 times
+, leading to: 7 times
+the scientific method: 7 times
+days a week: 7 times
+Baidu 's Ernie: 6 times
+
+
+Skipping Philosophy of Elementary Mathematics.txt: Not UTF-8 encoded.
+
+Skipping Pipsqueak Terms.txt: Not UTF-8 encoded.
+
+Skipping Pixel-Stretching Algorithms.txt: Not UTF-8 encoded.
+
+File: Planned Obsolescence Ideas.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Pleiothermic Energy Solutions.txt: Not UTF-8 encoded.
+
+Skipping Politically Correct Bias in Philosophy.txt: Not UTF-8 encoded.
+
+File: Positive Ignorance.txt
+
+Top 10 most common 3-grams:
+, and the: 9 times
+`` Positive Ignorance: 9 times
+. This approach: 6 times
+Positive Ignorance '': 6 times
+concept of ``: 5 times
+of `` Positive: 5 times
+and graph theory: 5 times
+The easiest way: 4 times
+easiest way to: 4 times
+way to solve: 4 times
+
+
+Skipping Possibility Space of Foods.txt: Not UTF-8 encoded.
+
+File: Potent Potables.txt
+
+Top 10 most common 3-grams:
+'' > <: 1371 times
+var ( --: 730 times
+> < div: 636 times
+< /div >: 636 times
+/div > <: 636 times
+< div class=: 627 times
+div class= '': 627 times
+> < /div: 611 times
+) ; }: 528 times
+'' round '': 392 times
+
+
+Skipping Poème sur les chats.txt: Not UTF-8 encoded.
+
+Skipping Predictive Brain Theory.txt: Not UTF-8 encoded.
+
+File: Predictive Coding Explained.txt
+
+Top 10 most common 3-grams:
+var ( --: 940 times
+) ; }: 685 times
+, var (: 414 times
+: rgba (: 410 times
+) ) ;: 363 times
+: 1 ;: 351 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 213 times
+: 0px ;: 205 times
+
+
+Skipping Prefix Conditioning.txt: Not UTF-8 encoded.
+
+Skipping Preguntas sobre prejuicios AI.txt: Not UTF-8 encoded.
+
+Skipping Principia Metaphysica Dilucidatio.txt: Not UTF-8 encoded.
+
+File: principia-metaphysica.txt
+
+Top 10 most common 3-grams:
+Kewpie doll effect: 140 times
+, and the: 131 times
+the Kewpie doll: 111 times
+our understanding of: 89 times
+nature of reality: 68 times
+quantum erasure ,: 61 times
+of reality .: 59 times
+the nature of: 54 times
+understanding of the: 54 times
+of quantum erasure: 53 times
+
+
+Skipping Proactive Inference Examples.txt: Not UTF-8 encoded.
+
+File: probabilistic-models-sga.txt
+
+Top 10 most common 3-grams:
+function ( ): 228 times
+( ) {: 228 times
+= function (: 215 times
+) { return: 186 times
+) { var: 157 times
+, function (: 142 times
+} , {: 130 times
+' } ,: 117 times
+= flip (: 108 times
+{ method :: 102 times
+
+
+File: Problems with Self-verification.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 476 times
+, var (: 323 times
+: rgba (: 322 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 161 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Process Invocation and Knowledge Presevation.txt: Not UTF-8 encoded.
+
+File: Program Writing Experiments.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Programming Experiments.txt: Not UTF-8 encoded.
+
+Skipping Prolegomena Metaphysica.txt: Not UTF-8 encoded.
+
+Skipping Prompt Engineering.txt: Not UTF-8 encoded.
+
+Skipping Proximity and External Contingencies.txt: Not UTF-8 encoded.
+
+Skipping Psycholinguistic Theory Construction.txt: Not UTF-8 encoded.
+
+File: public-opinion-sga.txt
+
+Top 10 most common 3-grams:
+[ Footnote :: 102 times
+08/05/2022 , 13:10: 100 times
+https : //standardgalactic.github.io: 100 times
+, and the: 57 times
+. It is: 40 times
+Main 08/05/2022 ,: 38 times
+'' [ Footnote: 33 times
+. [ Footnote: 30 times
+, p .: 26 times
+, [ Footnote: 25 times
+
+
+File: Purpose of null wavefront.txt
+
+Top 10 most common 3-grams:
+var ( --: 1046 times
+) ; }: 743 times
+, var (: 467 times
+: rgba (: 460 times
+) ) ;: 403 times
+: 1 ;: 393 times
+: var (: 243 times
+: where (: 233 times
+: 0px ;: 221 times
+; } .katex: 221 times
+
+
+File: pushup-test.txt
+
+Top 10 most common 3-grams:
+-- -- --: 360 times
+processing for directory: 40 times
+for directory :: 40 times
+up to date: 33 times
+From https :: 21 times
+-- -- -: 20 times
+-- - Starting: 20 times
+- Starting processing: 20 times
+Starting processing for: 20 times
+Finished processing for: 20 times
+
+
+Skipping Quantifying Emergence of Selection.txt: Not UTF-8 encoded.
+
+Skipping Quantum Cosmology.txt: Not UTF-8 encoded.
+
+Skipping Quantum Emoji Language.txt: Not UTF-8 encoded.
+
+Skipping Quantum Entanglement Distributor.txt: Not UTF-8 encoded.
+
+Skipping Quantum Free Will Resolution.txt: Not UTF-8 encoded.
+
+Skipping Quantum LF Theorem Experiment.txt: Not UTF-8 encoded.
+
+Skipping Quantum Phase Space Analysis.txt: Not UTF-8 encoded.
+
+Skipping Quantum Vacuum Uncertainty.txt: Not UTF-8 encoded.
+
+Skipping Quantum Vectors Comparison.txt: Not UTF-8 encoded.
+
+Skipping Quantum Yoghurt Computing.txt: Not UTF-8 encoded.
+
+Skipping Quaquaversal Tiling Machine.txt: Not UTF-8 encoded.
+
+Skipping Quartic Ring Fields.txt: Not UTF-8 encoded.
+
+File: Quenched Disorder Techniques.txt
+
+Top 10 most common 3-grams:
+var ( --: 650 times
+) ; }: 471 times
+, var (: 320 times
+: rgba (: 319 times
+) ) ;: 274 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 162 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Quest for Cosmic Meaning.txt: Not UTF-8 encoded.
+
+Skipping Quiet Brainscan.txt: Not UTF-8 encoded.
+
+Skipping Radiation from Curved Black Holes.txt: Not UTF-8 encoded.
+
+File: Random-words.txt
+
+Top 10 most common 3-grams:
+aa aah aahed: 1 times
+aah aahed aahing: 1 times
+aahed aahing aahs: 1 times
+aahing aahs aal: 1 times
+aahs aal aalii: 1 times
+aal aalii aaliis: 1 times
+aalii aaliis aals: 1 times
+aaliis aals aardvark: 1 times
+aals aardvark aardvarks: 1 times
+aardvark aardvarks aardwolf: 1 times
+
+
+File: ratsnake-sga.txt
+
+Top 10 most common 3-grams:
+[ edit ]: 14 times
+) . ``: 7 times
+Jump up to: 7 times
+up to :: 7 times
+to : a: 7 times
+: a b: 7 times
+( Elaphe obsoleta: 6 times
+. Retrieved on: 6 times
+Retrieved on 2012-12-19: 6 times
+on 2012-12-19 .: 6 times
+
+
+Skipping Recognition Machine Theory.txt: Not UTF-8 encoded.
+
+Skipping Reconstructing Lost Books.txt: Not UTF-8 encoded.
+
+File: Recurrent Protopathy.txt
+
+Top 10 most common 3-grams:
+Male nipples are: 4 times
+the development of: 4 times
+nipples are not: 3 times
+thought to be: 3 times
+of a developmental: 3 times
+a developmental process: 3 times
+‘ recurrent protopathy: 3 times
+recurrent protopathy ’: 3 times
+nipples , as: 3 times
+a role in: 3 times
+
+
+Skipping Regenerative Metaphors.txt: Not UTF-8 encoded.
+
+Skipping Reinterpreting Free-Energy Principle.txt: Not UTF-8 encoded.
+
+Skipping Relativistic Graph Interpretation.txt: Not UTF-8 encoded.
+
+Skipping Relativistic Scalar Vector Plenum (RSVP).txt: Not UTF-8 encoded.
+
+Skipping Relativistic Theory of Consciousness.txt: Not UTF-8 encoded.
+
+Skipping Relaxation in Disordered Interacting Systems.txt: Not UTF-8 encoded.
+
+File: relevance-relations.txt
+
+Top 10 most common 3-grams:
+de la relevancia: 133 times
+realización de la: 106 times
+la realización de: 83 times
+los sistemas vivos: 52 times
+a través de: 47 times
+de los sistemas: 37 times
+la agencia natural: 35 times
+, lo que: 32 times
+de la realización: 32 times
+de la agencia: 30 times
+
+
+File: Religious Factional Disputes.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Remap Numpad Key.txt: Not UTF-8 encoded.
+
+Skipping Rename PDF Files Bash.txt: Not UTF-8 encoded.
+
+Skipping Retentive Graph Networks.txt: Not UTF-8 encoded.
+
+Skipping Retrocomputing Flashcards.txt: Not UTF-8 encoded.
+
+Skipping Retrocomputing Glossary.txt: Not UTF-8 encoded.
+
+Skipping Retroflective Engineering.txt: Not UTF-8 encoded.
+
+Skipping Retrofuturist Knowledge.txt: Not UTF-8 encoded.
+
+Skipping Retrotransposon Noise.txt: Not UTF-8 encoded.
+
+File: Reverse Necrocapitalism.txt
+
+Top 10 most common 3-grams:
+In The Grip: 11 times
+The Grip of: 11 times
+Grip of Necrocapitalism: 11 times
+, and the: 10 times
+the potential for: 10 times
+. The narrative: 9 times
+. User I: 9 times
+: * *: 8 times
+. It is: 8 times
+be interesting to: 8 times
+
+
+File: Revolutionizing Open-Source AI.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 481 times
+: rgba (: 323 times
+, var (: 323 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 170 times
+{ font-size :: 143 times
+: not (: 127 times
+
+
+Skipping Revolutionizing Programming Languages.txt: Not UTF-8 encoded.
+
+File: rhinoscript.txt
+
+Top 10 most common 3-grams:
+https : //www.kadenze.com/courses/computing-form-and-shape-python-programming-with-the-rhinoscript-library/sessions/procedural-points-python-basics-and-rhinoscript: 1 times
+
+
+Skipping Rhizomatic Synergy.txt: Not UTF-8 encoded.
+
+File: rhizomatic-lens.txt
+
+Top 10 most common 3-grams:
+, such as: 24 times
+geometric deep learning: 22 times
+Geometric deep learning: 15 times
+curse of dimensionality: 14 times
+) Mecha @: 12 times
+Mecha @ gpt-3.5-turbo: 12 times
+the curse of: 12 times
+deep learning ,: 11 times
+models that can: 10 times
+non-Euclidean structured data: 10 times
+
+
+File: riemann-horn-torus.txt
+
+Top 10 most common 3-grams:
+the horn torus: 44 times
+the Riemann sphere: 20 times
+horn torus model: 15 times
+horn torus is: 14 times
+Riemann horn torus: 10 times
+horn torus ,: 10 times
+the complex plane: 10 times
+of the Riemann: 10 times
+( ζ −: 9 times
+1 2 ): 9 times
+
+
+Skipping Riemannian Optogenetics.txt: Not UTF-8 encoded.
+
+Skipping Robot Astar Reattaching Arm.txt: Not UTF-8 encoded.
+
+File: Robotic Brain.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+the PP brain: 225 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+
+
+Skipping Rolling Choice Theory.txt: Not UTF-8 encoded.
+
+Skipping Room-Temperature Superconductors.txt: Not UTF-8 encoded.
+
+Skipping Rotating Clifford Torus.txt: Not UTF-8 encoded.
+
+File: rust-documentation.txt
+
+Top 10 most common 3-grams:
+( https :: 4 times
+27/04/2022 , 17:24: 3 times
+, 17:24 Rust: 3 times
+17:24 Rust Documentation: 3 times
+ﬁle : ///home/phewf/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/index.html: 3 times
+Rust ’ s: 3 times
+an overview of: 2 times
+overview of the: 2 times
+All of these: 2 times
+of these resources: 2 times
+
+
+File: rwxrob-zettelkasten-quotes.txt
+
+Top 10 most common 3-grams:
+Showing the top: 82 times
+Markdown Showing the: 73 times
+Last indexed on: 67 times
+the top match: 46 times
+top match Last: 46 times
+match Last indexed: 46 times
+matches Last indexed: 36 times
+the top two: 32 times
+top two matches: 32 times
+two matches Last: 32 times
+
+
+File: Sapiency Detection Theory.txt
+
+Top 10 most common 3-grams:
+social cognition and: 12 times
+. Method :: 12 times
+detection and Bayesian: 12 times
+saliency detection and: 11 times
+and Bayesian inference: 10 times
+Sapiency Detection Theory: 8 times
+cognition and attachment: 8 times
+, such as: 7 times
+of saliency detection: 7 times
+Bayesian inference ,: 6 times
+
+
+Skipping Scalar Line Element Calculation.txt: Not UTF-8 encoded.
+
+Skipping Scenius Impact on Creativity.txt: Not UTF-8 encoded.
+
+File: Science Agents in Active Inference.txt
+
+Top 10 most common 3-grams:
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Scotophobin History.txt: Not UTF-8 encoded.
+
+Skipping Selective Reconstruction Theory.txt: Not UTF-8 encoded.
+
+Skipping Self-Assembling Ideas.txt: Not UTF-8 encoded.
+
+Skipping Self-Assembling Neural Networks.txt: Not UTF-8 encoded.
+
+File: self-check.txt
+
+Top 10 most common 3-grams:
+[ * ]: 52 times
+* ] (: 50 times
+) https :: 49 times
+] ( 1: 47 times
+( 1 ): 47 times
+1 ) https: 46 times
+: ok [: 36 times
+ok [ *: 36 times
+Nmap scan report: 20 times
+scan report for: 20 times
+
+
+File: Self-Correcting Strategies.txt
+
+Top 10 most common 3-grams:
+var ( --: 732 times
+) ; }: 528 times
+'' > <: 524 times
+: rgba (: 348 times
+, var (: 345 times
+) ) ;: 305 times
+> < div: 236 times
+< /div >: 236 times
+/div > <: 236 times
+: where (: 230 times
+
+
+Skipping Self-Organisation in the Brain.txt: Not UTF-8 encoded.
+
+Skipping Self-Organizing Dynamics of Complex Systems.txt: Not UTF-8 encoded.
+
+Skipping Self-Repair and Quantum Error Correction.txt: Not UTF-8 encoded.
+
+File: Self-Repair in Language Models.txt
+
+Top 10 most common 3-grams:
+et al. ,: 33 times
+al. , 2023: 25 times
+, 2023 ): 20 times
+Iterative Inference Hypothesis: 19 times
+the Iterative Inference: 16 times
+the importance of: 14 times
+the change in: 12 times
+the residual stream: 12 times
+the direct effect: 11 times
+large language models: 11 times
+
+
+File: Self-Test.txt
+
+Top 10 most common 3-grams:
+Reference files :: 84 times
+. Reference files: 79 times
+, such as: 20 times
+the importance of: 14 times
+What is the: 13 times
+. However ,: 13 times
+, and the: 13 times
+, you can: 13 times
+. It is: 12 times
+? What is: 11 times
+
+
+Skipping Semantic Dimensionality.txt: Not UTF-8 encoded.
+
+Skipping Semantic Ladle Of Words.txt: Not UTF-8 encoded.
+
+Skipping Semantic Memory Is All You Need.txt: Not UTF-8 encoded.
+
+File: sga-starter-aliases.txt
+
+Top 10 most common 3-grams:
+alias ='alias' alias: 1 times
+='alias' alias ='cd': 1 times
+alias ='cd' alias: 1 times
+='cd' alias ='less': 1 times
+alias ='less' alias: 1 times
+='less' alias ='ls': 1 times
+alias ='ls' alias: 1 times
+='ls' alias ='mkdir': 1 times
+alias ='mkdir' alias: 1 times
+='mkdir' alias ='echo: 1 times
+
+
+Skipping Sheer to Tilt.txt: Not UTF-8 encoded.
+
+File: Sight-words.txt
+
+Top 10 most common 3-grams:
+? What is: 129 times
+% > %: 97 times
+same as ``: 63 times
+'' same as: 57 times
+? Why use: 53 times
+What is the: 52 times
+( x ): 49 times
+this is a: 49 times
+. He is: 47 times
+like `` :: 45 times
+
+
+File: Significance Testing Critique.txt
+
+Top 10 most common 3-grams:
+. . .: 3991 times
+var ( --: 656 times
+) ; }: 479 times
+: rgba (: 324 times
+, var (: 324 times
+) ) ;: 277 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 166 times
+{ font-size :: 141 times
+
+
+Skipping Silica Nanolattice Compression.txt: Not UTF-8 encoded.
+
+File: Sith Methods of Rationality.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+) ; }: 695 times
+, var (: 417 times
+: rgba (: 411 times
+) ) ;: 364 times
+: 1 ;: 352 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 217 times
+: 0px ;: 205 times
+
+
+Skipping Six Degrees of Freedom.txt: Not UTF-8 encoded.
+
+Skipping Socio-cognetics.txt: Not UTF-8 encoded.
+
+File: solaris.txt
+
+Top 10 most common 3-grams:
+. . .: 15 times
+? ” “: 8 times
+? ” I: 7 times
+I could see: 6 times
+. I was: 6 times
+don ’ t: 6 times
+. . ”: 5 times
+? ” He: 5 times
+. “ What: 5 times
+it ’ s: 5 times
+
+
+Skipping Soliton Chambers.txt: Not UTF-8 encoded.
+
+Skipping Space-Time Structure.txt: Not UTF-8 encoded.
+
+Skipping Sparse Maps.txt: Not UTF-8 encoded.
+
+Skipping Spatiotemporal Dualism.txt: Not UTF-8 encoded.
+
+Skipping Spherepop Controls.txt: Not UTF-8 encoded.
+
+File: spherepop.txt
+
+Top 10 most common 3-grams:
+lenguajes de programación: 23 times
+los lenguajes de: 20 times
+de Spherepop .: 17 times
+de los lenguajes: 14 times
+a través de: 14 times
+de Spherepop ,: 13 times
+( AST ): 11 times
+of programming languages: 9 times
+. It 's: 9 times
+de la programación: 8 times
+
+
+Skipping Spherical Hermeneutics.txt: Not UTF-8 encoded.
+
+File: Sphinx of Naxos.txt
+
+Top 10 most common 3-grams:
+Sphinx of Naxos: 8 times
+Sphinx of the: 5 times
+of the Naxians: 5 times
+Temple of Apollo: 5 times
+  : 5 times
+The Sphinx of: 4 times
+the Temple of: 4 times
+of Apollo in: 4 times
+[ edit ]: 4 times
+to the Temple: 3 times
+
+
+File: Standard Galactic Alphabet.txt
+
+Top 10 most common 3-grams:
+Standard Galactic Alphabet: 5 times
+[ edit ]: 5 times
+The Standard Galactic: 2 times
+video games .: 2 times
+the first game: 2 times
+first game ,: 2 times
+Marooned on Mars: 2 times
+Standard Galactic is: 2 times
+at the end: 2 times
+the end of: 2 times
+
+
+Skipping Starfield Development.txt: Not UTF-8 encoded.
+
+Skipping Starts with S.txt: Not UTF-8 encoded.
+
+Skipping State Space Models & Kalman Filter.txt: Not UTF-8 encoded.
+
+File: Statespace-Free Physics.txt
+
+Top 10 most common 3-grams:
+var ( --: 662 times
+) ; }: 486 times
+: rgba (: 327 times
+, var (: 327 times
+) ) ;: 282 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 171 times
+{ font-size :: 143 times
+: not (: 129 times
+
+
+File: stations-of-the-mind.txt
+
+Top 10 most common 3-grams:
+. It is: 43 times
+. For example: 37 times
+For example ,: 36 times
+the old brain: 35 times
+, however ,: 33 times
+. Therefore ,: 29 times
+. This is: 27 times
+, but it: 26 times
+the new brain: 24 times
+most of us: 22 times
+
+
+File: Stochastic Networks.txt
+
+Top 10 most common 3-grams:
+var ( --: 634 times
+) ; }: 470 times
+: rgba (: 316 times
+, var (: 314 times
+) ) ;: 267 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 158 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Stone Spheres Made by Ancestors.txt: Not UTF-8 encoded.
+
+File: story-ideas.txt
+
+Top 10 most common 3-grams:
+: In this: 56 times
+In this sci-fi: 56 times
+this sci-fi scenario: 56 times
+sci-fi scenario ,: 56 times
+scenario , humanity: 45 times
+, humanity has: 44 times
+. However ,: 43 times
+. The story: 41 times
+The story follows: 40 times
+a group of: 35 times
+
+
+Skipping Structural Rationality Explained.txt: Not UTF-8 encoded.
+
+Skipping Structure of Consciousness.txt: Not UTF-8 encoded.
+
+File: Substrate Independent Thinking Hypothesis.txt
+
+Top 10 most common 3-grams:
+'' > <: 1105 times
+var ( --: 728 times
+) ; }: 526 times
+> < div: 510 times
+< /div >: 510 times
+/div > <: 510 times
+< div class=: 502 times
+div class= '': 502 times
+> < /div: 490 times
+: rgba (: 348 times
+
+
+File: superintelligence.txt
+
+Top 10 most common 3-grams:
+Taylor & Francis: 5 times
+Artificial Superintelligence :: 4 times
+Superintelligence : A: 4 times
+: A Futuristic: 4 times
+A Futuristic Approach: 4 times
+& Francis Group: 4 times
+SUPERINTELLIGENCE A FUTURISTIC: 3 times
+A FUTURISTIC APPROACH: 3 times
+intelligent machines .: 3 times
+aimed at making: 3 times
+
+
+File: Surjective Tesseract.txt
+
+Top 10 most common 3-grams:
+var ( --: 1046 times
+) ; }: 745 times
+, var (: 467 times
+: rgba (: 459 times
+) ) ;: 403 times
+: 1 ;: 387 times
+: var (: 243 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 218 times
+
+
+Skipping Surprise-based Collective Behavior Model.txt: Not UTF-8 encoded.
+
+Skipping Swarmbot Intelligence.txt: Not UTF-8 encoded.
+
+Skipping Switch Wiring Issue Detected.txt: Not UTF-8 encoded.
+
+Skipping Symbiotic Aquatic Filtration.txt: Not UTF-8 encoded.
+
+Skipping Symbolisme Littéraire et Artistique.txt: Not UTF-8 encoded.
+
+Skipping Symplectic Manifolds.txt: Not UTF-8 encoded.
+
+Skipping Syntactic Utility.txt: Not UTF-8 encoded.
+
+File: Synthetica Mystica Rationalis.txt
+
+Top 10 most common 3-grams:
+var ( --: 1062 times
+) ; }: 733 times
+, var (: 465 times
+: rgba (: 456 times
+) ) ;: 407 times
+: 1 ;: 389 times
+: var (: 234 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 216 times
+
+
+Skipping Synthographoscopy.txt: Not UTF-8 encoded.
+
+Skipping Table of Catastrophic Risks.txt: Not UTF-8 encoded.
+
+File: Technical Report on Germanium.txt
+
+Top 10 most common 3-grams:
+var ( --: 938 times
+) ; }: 687 times
+, var (: 413 times
+: rgba (: 408 times
+) ) ;: 362 times
+: 1 ;: 356 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 212 times
+: 0px ;: 207 times
+
+
+Skipping Techno-Axiological Penteract.txt: Not UTF-8 encoded.
+
+Skipping Technological Metatheories.txt: Not UTF-8 encoded.
+
+Skipping Teleodynamic Principles.txt: Not UTF-8 encoded.
+
+File: teleodynamics.txt
+
+Top 10 most common 3-grams:
+the emergence of: 37 times
+`` Incomplete Nature: 31 times
+, and the: 25 times
+the concept of: 22 times
+the nature of: 21 times
+Incomplete Nature '': 19 times
+Incomplete Nature :: 16 times
+How Mind Emerged: 16 times
+Mind Emerged from: 16 times
+Emerged from Matter: 16 times
+
+
+Skipping Telepathic Balloon Pop.txt: Not UTF-8 encoded.
+
+Skipping Telephrasitic Microblockchain Infiltration.txt: Not UTF-8 encoded.
+
+File: testing-the-waters.txt
+
+Top 10 most common 3-grams:
+) : default: 14 times
+: default Mecha: 14 times
+default Mecha @: 14 times
+the Waters (: 12 times
+( b +: 12 times
+b + c: 12 times
++ c ): 12 times
+for all a: 12 times
+Testing the Waters: 11 times
+Mecha @ gpt-4: 11 times
+
+
+File: Textbook-Quality Data Improves Performance.txt
+
+Top 10 most common 3-grams:
+. . .: 982 times
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+
+
+File: The 16 Laws of Robotics.txt
+
+Top 10 most common 3-grams:
+'' > <: 1478 times
+var ( --: 730 times
+> < div: 687 times
+< /div >: 687 times
+/div > <: 687 times
+< div class=: 678 times
+div class= '': 678 times
+> < /div: 659 times
+) ; }: 528 times
+'' round '': 424 times
+
+
+Skipping The Calculus Cure.txt: Not UTF-8 encoded.
+
+Skipping The Memetic Nexus.txt: Not UTF-8 encoded.
+
+Skipping The Ontogenic Parade.txt: Not UTF-8 encoded.
+
+Skipping The Ortyx Mechanism.txt: Not UTF-8 encoded.
+
+File: The Overconfidence of Memes.txt
+
+Top 10 most common 3-grams:
+the zombie argument: 25 times
+, and the: 20 times
+the importance of: 20 times
+Eliezer ’ s: 18 times
+of consciousness .: 16 times
+don ’ t: 15 times
+the nature of: 13 times
+doesn ’ t: 13 times
+. It ’: 11 times
+It ’ s: 11 times
+
+
+File: The Podman Prophecies.txt
+
+Top 10 most common 3-grams:
+var ( --: 938 times
+) ; }: 687 times
+, var (: 413 times
+: rgba (: 408 times
+) ) ;: 362 times
+: 1 ;: 356 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 212 times
+: 0px ;: 207 times
+
+
+File: the-little-mermaid-sga.txt
+
+Top 10 most common 3-grams:
+, and the: 25 times
+'' said the: 23 times
+the little mermaid: 23 times
+, '' said: 22 times
+the water ,: 18 times
+out of the: 13 times
+of the sea: 13 times
+, so that: 13 times
+the sea ,: 12 times
+The little mermaid: 12 times
+
+
+File: the-way-to-go-sga.txt
+
+Top 10 most common 3-grams:
+fmt.Printf ( “: 135 times
+( ) {: 119 times
+Way to Go: 97 times
+main ( ): 95 times
+func main (: 84 times
+“ fmt ”: 75 times
+_ _ _: 74 times
+package main import: 66 times
+( see §: 59 times
+: package main: 52 times
+
+
+File: Theory of Humanocentric Evolution.txt
+
+Top 10 most common 3-grams:
+var ( --: 942 times
+) ; }: 681 times
+, var (: 410 times
+: rgba (: 405 times
+) ) ;: 359 times
+: 1 ;: 348 times
+: where (: 233 times
+; } .katex: 221 times
+: 0px ;: 220 times
+: var (: 213 times
+
+
+Skipping Theory of Modular Intelligence.txt: Not UTF-8 encoded.
+
+File: thermobaric-logic.txt
+
+Top 10 most common 3-grams:
+. * *: 61 times
+* * :: 61 times
+> > >: 57 times
+. > >: 49 times
+`` '' '': 43 times
+. ... ...: 25 times
+: 1 .: 25 times
+. 2 .: 24 times
+. 3 .: 22 times
+> > ``: 21 times
+
+
+Skipping Thermodynamic Yoghurt Pipelines.txt: Not UTF-8 encoded.
+
+Skipping Thermodynamic Yoghurt Processing.txt: Not UTF-8 encoded.
+
+Skipping Thought-Provoking Transformations.txt: Not UTF-8 encoded.
+
+File: Thoughts Concerning the Eloi.txt
+
+Top 10 most common 3-grams:
+. * *: 7 times
+. `` I: 4 times
+* * The: 4 times
+J.R.R . Tolkien: 4 times
+'' . ``: 3 times
+, the Eloi: 3 times
+. The Eloi: 3 times
+. In the: 2 times
+Work is for: 2 times
+is for robots: 2 times
+
+
+Skipping Topology in Arithmetic Models.txt: Not UTF-8 encoded.
+
+File: totalitarianism.txt
+
+Top 10 most common 3-grams:
+. It was: 5 times
+the twentieth century: 5 times
+. It is: 5 times
+of mass formation: 4 times
+Chelsea Green Publishing: 4 times
+of this book: 4 times
+. In the: 4 times
+* * *: 4 times
+can not be: 4 times
+mass formation and: 3 times
+
+
+Skipping Transcendental Movie Ideas.txt: Not UTF-8 encoded.
+
+Skipping Transemic Perspectives.txt: Not UTF-8 encoded.
+
+File: Transformer Limits on Reasoning.txt
+
+Top 10 most common 3-grams:
+var ( --: 632 times
+) ; }: 467 times
+: rgba (: 314 times
+, var (: 312 times
+) ) ;: 265 times
+: where (: 230 times
+; } .katex: 221 times
+: 0px ;: 156 times
+{ font-size :: 141 times
+: not (: 129 times
+
+
+Skipping Tree of Self-reflection.txt: Not UTF-8 encoded.
+
+Skipping Trickle-down Network Effects.txt: Not UTF-8 encoded.
+
+Skipping Trionic Cyclexes.txt: Not UTF-8 encoded.
+
+Skipping Typomorphological Considerations.txt: Not UTF-8 encoded.
+
+Skipping Ultrabionic Reading.txt: Not UTF-8 encoded.
+
+File: ultrapersonal-inquiry.txt
+
+Top 10 most common 3-grams:
+Reference files :: 25 times
+. Reference files: 21 times
+files : Venture: 7 times
+: Venture Capital: 7 times
+Venture Capital Ideas.txt: 7 times
+. The Eloi: 6 times
+the context information: 6 times
+context information provided: 6 times
+? Yes ,: 4 times
+, while the: 4 times
+
+
+File: Umber Sumus.txt
+
+Top 10 most common 3-grams:
+the SEEKING system: 28 times
+Panksepp ’ s: 25 times
+’ s theory: 15 times
+, such as: 13 times
+a fi lm: 12 times
+of the SEEKING: 11 times
+SEEKING system ,: 11 times
+the context of: 10 times
+Grodal ’ s: 10 times
+. This approach: 9 times
+
+
+File: Unconscious History.txt
+
+Top 10 most common 3-grams:
+Reference files :: 21 times
+. Reference files: 19 times
+, and the: 8 times
+? Yes ,: 7 times
+Liquid Terra Preta: 5 times
+. It is: 5 times
+of elementary mathematics: 4 times
+files : Socio-cognetics.txt: 4 times
+Null Convention Logic: 3 times
+Yes , there: 3 times
+
+
+File: unconverted-pdfs.txt
+
+Top 10 most common 3-grams:
+file 'heterarchical-active-control.pdf' file: 1 times
+'heterarchical-active-control.pdf' file 'introduction-to-chatgpt.pdf': 1 times
+file 'introduction-to-chatgpt.pdf' file: 1 times
+'introduction-to-chatgpt.pdf' file 'lean-theorem-prover.pdf': 1 times
+file 'lean-theorem-prover.pdf' file: 1 times
+'lean-theorem-prover.pdf' file 'phoenician-sample.pdf': 1 times
+file 'phoenician-sample.pdf' file: 1 times
+'phoenician-sample.pdf' file 'probabilistic-models-sga.pdf': 1 times
+file 'probabilistic-models-sga.pdf' file: 1 times
+'probabilistic-models-sga.pdf' file 'public-opinion-sga.pdf': 1 times
+
+
+Skipping Understanding Aboulomania.txt: Not UTF-8 encoded.
+
+Skipping Understanding Deleuzian Rhizomatics.txt: Not UTF-8 encoded.
+
+Skipping Understanding Epistemic Reduction.txt: Not UTF-8 encoded.
+
+Skipping Understanding Human Introspection.txt: Not UTF-8 encoded.
+
+Skipping Understanding the Wave-Particle Duality in Quantum Physics.txt: Not UTF-8 encoded.
+
+Skipping Understanding Unravelism.txt: Not UTF-8 encoded.
+
+Skipping Unified Model of Reasoning.txt: Not UTF-8 encoded.
+
+Skipping Unix Directory Structure.txt: Not UTF-8 encoded.
+
+File: Unix History and Future.txt
+
+Top 10 most common 3-grams:
+var ( --: 952 times
+) ; }: 695 times
+, var (: 417 times
+: rgba (: 411 times
+) ) ;: 364 times
+: 1 ;: 352 times
+: where (: 233 times
+; } .katex: 221 times
+: var (: 217 times
+: 0px ;: 205 times
+
+
+Skipping UNIX Overview and Topics.txt: Not UTF-8 encoded.
+
+Skipping Unix Utilities Overview.txt: Not UTF-8 encoded.
+
+Skipping Unknown Phrases.txt: Not UTF-8 encoded.
+
+Skipping Unpredictable Human Behavior.txt: Not UTF-8 encoded.
+
+Skipping Unraveling Complex Concepts.txt: Not UTF-8 encoded.
+
+Skipping Unscannable Interfaces.txt: Not UTF-8 encoded.
+
+File: untitled.txt
+
+Top 10 most common 3-grams:
+I might have: 2 times
+see if I: 2 times
+Awesome conversation .: 1 times
+conversation . I: 1 times
+. I admit: 1 times
+I admit that: 1 times
+admit that I: 1 times
+that I might: 1 times
+might have fell: 1 times
+have fell asleep: 1 times
+
+
+Skipping Untyped Lambda Foundations.txt: Not UTF-8 encoded.
+
+Skipping Unusually Potent Potables.txt: Not UTF-8 encoded.
+
+Skipping Updating Ubuntu Python.txt: Not UTF-8 encoded.
+
+Skipping Vacuum Fluctuations.txt: Not UTF-8 encoded.
+
+Skipping Vague Concepts Explored.txt: Not UTF-8 encoded.
+
+Skipping Valence Concept Visualized.txt: Not UTF-8 encoded.
+
+Skipping Venture Capital Ideas.txt: Not UTF-8 encoded.
+
+Skipping Vestibular-Visual Interplay.txt: Not UTF-8 encoded.
+
+Skipping Viewing Files in DOS.txt: Not UTF-8 encoded.
+
+Skipping Vim Navigation Basics.txt: Not UTF-8 encoded.
+
+Skipping Vim Space Quest.txt: Not UTF-8 encoded.
+
+Skipping Vorticon Vision.txt: Not UTF-8 encoded.
+
+File: vorticon-invasion.txt
+
+Top 10 most common 3-grams:
+Here are some: 23 times
+On the Beach: 23 times
+`` On the: 21 times
+. Here are: 20 times
+< center >: 20 times
+< /center >: 20 times
+/center > <: 20 times
+the Beach '': 18 times
+Commander Keen movie: 17 times
+Keen movie script: 17 times
+
+
+File: wam-index.txt
+
+Top 10 most common 3-grams:
+html > <: 2 times
+'' 400 '': 2 times
+'' > <: 2 times
+< ! DOCTYPE: 1 times
+! DOCTYPE html: 1 times
+DOCTYPE html >: 1 times
+> < html: 1 times
+< html >: 1 times
+> < head: 1 times
+< head >: 1 times
+
+
+Skipping Wandering Significances.txt: Not UTF-8 encoded.
+
+File: weirdness.txt
+
+Top 10 most common 3-grams:
+June 22 ,: 29 times
+22 , 2022: 29 times
+, 2022 Ch: 29 times
+2022 Ch .: 29 times
+the United States: 28 times
+Ch . 2: 22 times
+. 2 :: 22 times
+2 : USA: 22 times
+: USA Consciousness: 22 times
+USA Consciousness ,: 22 times
+
+
+File: Wikipedia-sample.txt
+
+Top 10 most common 3-grams:
+articles Category :: 3636 times
+Category : Top-importance: 1208 times
+Category : High-importance: 857 times
+Category : History: 747 times
+: History of: 706 times
+the United States: 666 times
+Category : Books: 595 times
+country Category :: 587 times
+Category : Unknown-importance: 582 times
+by country Category: 556 times
+
+
+File: Wikipedia-small-sample.txt
+
+Top 10 most common 3-grams:
+of minor planet: 437 times
+minor planet names: 436 times
+Meanings of minor: 435 times
+planet names :: 434 times
+( mathematics ): 79 times
+) Category :: 75 times
+( film ): 70 times
+( Unix ): 55 times
+( disambiguation ): 47 times
+theory Category :: 46 times
+
+
+File: Wikipedia-small-sample2.txt
+
+Top 10 most common 3-grams:
+of minor planet: 437 times
+minor planet names: 436 times
+Meanings of minor: 435 times
+planet names :: 434 times
+( film ): 89 times
+( mathematics ): 81 times
+theory Category :: 66 times
+( album ): 57 times
+( Unix ): 56 times
+( disambiguation ): 54 times
+
+
+File: Wikipedia-update.txt
+
+Top 10 most common 3-grams:
+of minor planet: 437 times
+minor planet names: 436 times
+Meanings of minor: 435 times
+planet names :: 434 times
+( film ): 98 times
+( mathematics ): 85 times
+) Category :: 83 times
+( disambiguation ): 63 times
+TV series ): 62 times
+( album ): 60 times
+
+
+File: Wikipedia-watchlist.txt
+
+Top 10 most common 3-grams:
+( disambiguation ): 632 times
+( mathematics ): 256 times
+( software ): 133 times
+( mathematician ): 118 times
+programming language ): 111 times
+( computing ): 111 times
+( programming language: 110 times
+( computer science: 105 times
+computer science ): 105 times
+( physics ): 104 times
+
+
+File: Windows-command-line-Spanish.txt
+
+Top 10 most common 3-grams:
+, Muestra o: 13 times
+uno o más: 7 times
+o más archivos: 7 times
+de archivos .: 6 times
+comandos de Windows: 5 times
+más archivos .: 5 times
+un directorio .: 5 times
+por lotes .: 5 times
+Muestra o modifica: 4 times
+, Muestra el: 4 times
+
+
+Skipping Work on Spherepop.txt: Not UTF-8 encoded.
+
+Skipping Work on Spherepop2.txt: Not UTF-8 encoded.
+
+Skipping Wrinklon Explains Material Wrinkles.txt: Not UTF-8 encoded.
+
+File: Xenophon.txt
+
+Top 10 most common 3-grams:
+, including the: 5 times
+. Xenophon 's: 5 times
+Xenophon and Adler: 5 times
+the philosopher Socrates: 4 times
+the Peloponnesian War: 4 times
+Xenophon was a: 3 times
+of his most: 3 times
+his most famous: 3 times
+most famous works: 3 times
+, philosophy ,: 3 times
+
+
+Skipping Xylem Cell Lineage Insights.txt: Not UTF-8 encoded.
+
+File: Xylem Economies.txt
+
+Top 10 most common 3-grams:
+? Flyxion :: 53 times
+. Pi :: 20 times
+Flyxion : I: 18 times
+. It 's: 17 times
+Flyxion : Yeah: 14 times
+Pi : That: 13 times
+: That 's: 11 times
+almost like a: 11 times
+. Flyxion :: 10 times
+to think about: 10 times
+
+
+Skipping Xylem-Based Economies.txt: Not UTF-8 encoded.
+
+Skipping Xyloidology.txt: Not UTF-8 encoded.
+
+File: Yappy Chatbot.txt
+
+Top 10 most common 3-grams:
+. It 's: 41 times
+Pi : Haha: 24 times
+: Haha ,: 24 times
+Flyxion : I: 22 times
+. Pi :: 21 times
+? Flyxion :: 20 times
+😄 Flyxion :: 19 times
+. Flyxion :: 16 times
+😁 Flyxion :: 15 times
+Flyxion : Yeah: 15 times
+
+
+Skipping Yogurt Innovations Discussion.txt: Not UTF-8 encoded.
+
+Skipping Youtronium Incorporated.txt: Not UTF-8 encoded.
+
+Skipping Zapya in Cuba.txt: Not UTF-8 encoded.
+
+File: Zen and Rationality.txt
+
+Top 10 most common 3-grams:
+Zen and Rationality: 14 times
+. Zen and: 13 times
+and Rationality :: 13 times
+? about theintersectionofmy: 8 times
+about theintersectionofmy decadesofLW-style: 8 times
+theintersectionofmy decadesofLW-style rationalitypractice: 8 times
+decadesofLW-style rationalitypractice andmyseveralyearsof: 8 times
+rationalitypractice andmyseveralyearsof Zenpractice: 8 times
+andmyseveralyearsof Zenpractice .: 8 times
+Zenpractice . Intoday'sinstallment: 8 times
+
+
+File: Zephyrs of Lambiscopolix.txt
+
+Top 10 most common 3-grams:
+var ( --: 1056 times
+) ; }: 747 times
+, var (: 466 times
+: rgba (: 458 times
+'' > <: 415 times
+) ) ;: 401 times
+: 1 ;: 385 times
+> < div: 274 times
+< /div >: 274 times
+/div > <: 274 times
+
+
+Skipping Zero Resistance.txt: Not UTF-8 encoded.
+
+Skipping Zero-Knowledge Roots.txt: Not UTF-8 encoded.
+
+Skipping Zero-Yield Xerography.txt: Not UTF-8 encoded.
+
+Skipping Zodiac as Ark Metaphor.txt: Not UTF-8 encoded.
+
+Skipping Zonas Inhúmedas.txt: Not UTF-8 encoded.
+
+File: zorro.txt
+
+Top 10 most common 3-grams:
+¡ ! ¡Oh: 46 times
+! ¡Oh !: 46 times
+¡Oh ! ¡: 42 times
+! ¡ !: 41 times
+¡ ! ¡Vamos: 28 times
+! ¡Vamos !: 28 times
+! ¡ !: 25 times
+¡Vamos ! ¡: 20 times
+¡ ! ¡Puerto: 11 times
+! ¡Puerto !: 11 times
+
+
+Skipping Zsh - Unix Shell Enhancements.txt: Not UTF-8 encoded.
+
+Skipping Γρήγορο Πανγράμματο - Το ζευγάρι και οι ξυλοκόποι.txt: Not UTF-8 encoded.
+
+Skipping حروف الشمس والقمر.txt: Not UTF-8 encoded.
+
+Skipping واجب الضيافة.txt: Not UTF-8 encoded.
+
